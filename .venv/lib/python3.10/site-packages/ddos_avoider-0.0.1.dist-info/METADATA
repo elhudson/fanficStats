@@ -1,0 +1,5 @@
+Metadata-Version: 2.1
+Name: ddos-avoider
+Version: 0.0.1
+Summary: simple utility to avoid DDOSing sites while scraping
+
