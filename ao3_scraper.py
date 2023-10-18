@@ -54,8 +54,6 @@ def get_works(fandom):
         data=get_page(query,p)
         for d in data:
             results[d['id']]=d
-    with open(f'data/{fandom}.json', 'w+') as file:
-        json.dump(results, file, cls=FicEncoder)
     return results
 
 @backoff.on_exception(backoff.expo, (RequestException, ao3.utils.HTTPError))
