@@ -1,16 +1,15 @@
-from datetime import datetime
 import imdb
-import AO3 as ao3
-
-from ao3_scraper import get_works
+from tsg.client import SyncTSGClient
+from scrapers.ao3 import get_works
+from scrapers.storygraph import get_book
+from scrapers.igdb import search_games, get_game
 
 db = imdb.Cinemagoer()
-
+books = SyncTSGClient()
 
 class WorkNotFoundError(Exception):
     def __init__(self, msg=""):
         super().__init__(msg)
-
 
 class Work(dict):
     def __init__(self, *args, **kwargs):
@@ -25,7 +24,7 @@ class Work(dict):
         data = func(params)
         if data == None or len(data) == 0:
             raise WorkNotFoundError
-        if not kind:
+        if kind=='book' or kind=='videogame' or not kind:
             return data[0]
         result = [d for d in data if Work.match_kind(kind, d)]
         if len(result) == 0:
@@ -44,14 +43,15 @@ class Serializable:
     def get_episodes(self, data):
         self.seasons = data.get("seasons")
 
-
 class PubWork(Work):
     def __init__(self, *args, **kwargs):
         super().__init__(self, *args, **kwargs)
+        self.genres=kwargs['genres']
+        self.fandom=kwargs['fandom']
         self.serialized = False
 
     def get_fics(self):
-        self.fics = get_works(self.title)
+        self.fics = get_works(self.fandom)
         for id, data in self.fics.items():
             self.fics[id] = FanWork(
                 title=data["title"],
@@ -89,6 +89,7 @@ class FanWork(Work):
 
 
 class ScreenWork(PubWork):
+    
     search = db.search_movie
 
     def __init__(self, *args, **kwargs):
@@ -109,17 +110,32 @@ class ScreenWork(PubWork):
         return db.get_movie(id)
 
 
-class PageWork(Work):
+class PageWork(PubWork):
+    
+    search=books.get_browse
+
     def __init__(self, *args, **kwargs):
         super().__init__(self, *args, **kwargs)
-        self.author = kwargs["data"].get("author")
+        self.reviews=kwargs['data'].get('reviews')
+        self.rating=kwargs['data'].get('rating')
+        self.edition=kwargs['data'].get('edition')
+        self.genres=kwargs['data'].get('tags')
+        
+    @staticmethod
+    def identifier(data):
+        return data.id
+    
+    @staticmethod
+    def retrieve(data):
+        if not data:
+            raise WorkNotFoundError
+        id=PageWork.identifier(data)
+        return get_book(id)
 
-
-class TV(Serializable, ScreenWork):
+class TV(Serializable, ScreenWork):    
     def __init__(self, *args, **kwargs):
         super().__init__(self, *args, **kwargs)
         self.get_episodes(kwargs["data"])
-
 
 class Podcast(Serializable, ScreenWork):
     def __init__(self, *args, **kwargs):
@@ -142,6 +158,21 @@ class Comic(Serializable, PageWork):
         super().__init__(self, *args, **kwargs)
 
 
-class VideoGame(ScreenWork):
+class VideoGame(PubWork):
+    
+    search=search_games
+    
     def __init__(self, *args, **kwargs):
         super().__init__(self, *args, **kwargs)
+        
+                
+    @staticmethod
+    def identifier(data):
+        return data['id']
+    
+    @staticmethod
+    def retrieve(data):
+        id=VideoGame.identifier(data)
+        return get_game(id)
+    
+        

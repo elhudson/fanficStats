@@ -34,7 +34,7 @@ def refresh(query):
 def get_fandoms():
     resources=os.path.join(os.path.dirname(ao3.__file__), 'resources/fandoms')
     if not os.path.exists(resources):
-        for fandom in ao3.extra._FANDOM_RESOURCES:
+        for key, fandom in ao3.extra._FANDOM_RESOURCES.items():
             fandom()
     return {
         r:pickle.loads(
