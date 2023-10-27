@@ -3,9 +3,11 @@ from tsg.client import SyncTSGClient
 from scrapers.ao3 import get_works
 from scrapers.storygraph import get_book
 from scrapers.igdb import search_games, get_game
+from sklearn.linear_model import LinearRegression
 
 db = imdb.Cinemagoer()
 books = SyncTSGClient()
+
 
 class WorkNotFoundError(Exception):
     def __init__(self, msg=""):
@@ -57,7 +59,7 @@ class PubWork(Work):
                 title=data["title"],
                 id=data['id'],
                 date=data['date_updated'],
-                author=data['authors'][0].username,
+                author=data['authors'][0].username if len(data['authors'])>0 else None,
                 kudos=data['kudos'],
                 warnings=data["warnings"],
                 hits=data["hits"],
@@ -82,11 +84,10 @@ class FanWork(Work):
         self.warnings = kwargs["warnings"]
         self.rating = kwargs["rating"]
         
-    def approx_rating():
+    def approx_rating(self):
         # some algorithm to calculate how this work's kudos/views ratio compares to peer works
         # -- normalized, obviously
         pass
-
 
 class ScreenWork(PubWork):
     

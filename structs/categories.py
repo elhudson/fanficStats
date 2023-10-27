@@ -11,6 +11,11 @@ class Category:
     def get_properties(self, fandoms):
         self.fandoms={f:None for f in fandoms[self.key]}
         
+    def search(self, query):
+        for title, data in self.fandoms.items():
+            if query in data['title']:
+                return {title: data}
+        
     def fetch_properties(self, testing=False):
         if not hasattr(self, 'fandoms'):
             self.get_properties(fandoms)
@@ -35,9 +40,9 @@ class Category:
         
 fandoms = get_fandoms()
 categories = {
-    'TV':Category('TV', 'tvshows_fandoms.pkl', 'tv series', TV),
-    'Movies':Category('Movies', 'movies_fandoms.pkl', 'movie', Movie),
-    'Books':Category('Books', 'books_literature_fandoms.pkl', 'book', Book),
-    'Games':Category('Games', 'videogames_fandoms.pkl', 'videogame', VideoGame)
+    'tv':Category('TV', 'tvshows_fandoms.pkl', 'tv series', TV),
+    'movies':Category('Movies', 'movies_fandoms.pkl', 'movie', Movie),
+    'books':Category('Books', 'books_literature_fandoms.pkl', 'book', Book),
+    'games':Category('Games', 'videogames_fandoms.pkl', 'videogame', VideoGame)
 }
 
