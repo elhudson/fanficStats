@@ -59,7 +59,7 @@ class PubWork(Work):
                 title=data["title"],
                 id=data['id'],
                 date=data['date_updated'],
-                author=data['authors'][0].username if len(data['authors'])>0 else None,
+                author=data['authors'][0]['username'] if len(data['authors'])>0 else None,
                 kudos=data['kudos'],
                 warnings=data["warnings"],
                 hits=data["hits"],

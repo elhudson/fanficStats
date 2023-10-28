@@ -1,5 +1,6 @@
 import AO3 as ao3
 import os
+from pathlib import Path
 import pickle
 import json
 import functools
@@ -46,14 +47,21 @@ def get_fandoms():
 
 @backoff.on_exception(backoff.expo, (RequestException, ao3.utils.HTTPError))
 def get_works(fandom):
-    results={}
-    query=ao3.Search(fandoms=fandom)
-    refresh(query)
-    pages=range(1,query.pages+1)
-    for p in progress_bar(pages, msg='Works downloaded'):
-        data=get_page(query,p)
-        for d in data:
-            results[d['id']]=d
+    name_transform=fandom.replace(' ', "_").lower()+'.json'
+    root_folder=Path(os.path.abspath(__file__)).parent.parent.__str__()
+    data_folder=os.path.join(root_folder, 'data/')
+    if name_transform in os.listdir(data_folder):
+        results=json.load(open(os.path.join(data_folder, name_transform), 'r'))
+    else:
+        results={}
+        query=ao3.Search(fandoms=fandom)
+        refresh(query)
+        pages=range(1,query.pages+1)
+        for p in progress_bar(pages, msg='Works downloaded'):
+            data=get_page(query,p)
+            for d in data:
+                results[d['id']]=d
+        json.dump(results, open(os.path.join(data_folder, name_transform), 'w+'), cls=FicEncoder)
     return results
 
 @backoff.on_exception(backoff.expo, (RequestException, ao3.utils.HTTPError))
