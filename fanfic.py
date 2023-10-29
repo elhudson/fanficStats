@@ -25,7 +25,7 @@ class FanficModel:
 
     @staticmethod
     def to_dataframe(fics):
-        return pd.DataFrame.from_records([f.__dict__ for f in fics.values()])
+        return pd.DataFrame.from_records([f.__dict__ for f in fics.values()], index='id')
         
     def get_top_tags(self, fics):
         df=self.to_dataframe(fics)
