@@ -1,41 +1,14 @@
 import imdb
+import pandas as pd
 from tsg.client import SyncTSGClient
-from scrapers.ao3 import get_works
 from scrapers.storygraph import get_book
 from scrapers.igdb import search_games, get_game
 from sklearn.linear_model import LinearRegression
 
+from structs.lib import Work, Library
+
 db = imdb.Cinemagoer()
 books = SyncTSGClient()
-
-
-class WorkNotFoundError(Exception):
-    def __init__(self, msg=""):
-        super().__init__(msg)
-
-class Work(dict):
-    def __init__(self, *args, **kwargs):
-        super().__init__(self)
-        self.title = kwargs["title"]
-        self.id = kwargs["id"]
-        self.date = kwargs['date']
-        self.author = kwargs["author"]
-
-    @staticmethod
-    def search_by_name(func, params, kind=None):
-        data = func(params)
-        if data == None or len(data) == 0:
-            raise WorkNotFoundError
-        if kind=='book' or kind=='videogame' or not kind:
-            return data[0]
-        result = [d for d in data if Work.match_kind(kind, d)]
-        if len(result) == 0:
-            raise WorkNotFoundError
-        return result[0]
-
-    @staticmethod
-    def match_kind(kind, data):
-        return data.get("kind").__eq__(kind)
 
 
 class Serializable:
@@ -53,7 +26,8 @@ class PubWork(Work):
         self.serialized = False
 
     def get_fics(self):
-        self.fics = get_works(self.fandom)
+        return get_works(self.fandom)
+        return self.fics
         for id, data in self.fics.items():
             self.fics[id] = FanWork(
                 title=data["title"],
@@ -69,25 +43,6 @@ class PubWork(Work):
                 fandoms=data["fandoms"],
                 ships=data["relationships"],
                 rating=data["rating"])
-
-
-class FanWork(Work):
-    def __init__(self, *args, **kwargs):
-        super().__init__(self, *args, **kwargs)
-        self.chapters = kwargs["chapters"]
-        self.kudos = kwargs["kudos"]
-        self.hits = kwargs["hits"]
-        self.characters = kwargs["characters"]
-        self.tags = kwargs["tags"]
-        self.fandoms = kwargs["fandoms"]
-        self.ships = kwargs["ships"]
-        self.warnings = kwargs["warnings"]
-        self.rating = kwargs["rating"]
-        
-    def approx_rating(self):
-        # some algorithm to calculate how this work's kudos/views ratio compares to peer works
-        # -- normalized, obviously
-        pass
 
 class ScreenWork(PubWork):
     
@@ -164,9 +119,8 @@ class VideoGame(PubWork):
     search=search_games
     
     def __init__(self, *args, **kwargs):
-        super().__init__(self, *args, **kwargs)
-        
-                
+        pass
+                    
     @staticmethod
     def identifier(data):
         return data['id']
@@ -175,5 +129,3 @@ class VideoGame(PubWork):
     def retrieve(data):
         id=VideoGame.identifier(data)
         return get_game(id)
-    
-        

@@ -16,7 +16,7 @@ ofmd=TV(title=res.get('title'),
         id=res.movieID, 
         author=res.get('writers')[0], 
         date=res.get('year'), 
-        fandom='Our Flag Means Death (TV 2022)')
+        fandom='Our Flag Means Death (TV)')
 
 
 class FanficModel:
@@ -40,6 +40,7 @@ class FanficModel:
         tags=self.get_top_tags(fics)
         tag_matrix=pd.DataFrame(index=fics.keys(), columns=tags)
         return tag_matrix.apply(lambda x: 1 if len([i for i in fics[x.name].tags if i in tags])>0 else 0, axis=1, result_type='broadcast')
+        
         # for f in fics.values():
         #     for tag in f.tags:
         #         if tag in tags:
@@ -74,5 +75,3 @@ class FanficModel:
         return {self.target: res}
 
 
-ofmd.get_fics()
-ofmd_model=FanficModel(target='tags')
