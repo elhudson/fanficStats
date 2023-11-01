@@ -28,6 +28,12 @@ class Work(pd.Series):
     @staticmethod
     def match_kind(kind, data):
         return data.get("kind").__eq__(kind)
+    
+    @classmethod 
+    def create(cls, data):
+        if type(data) is not dict:
+            data=data.__dict__
+        return cls(data)
 
 
 class Library(pd.DataFrame):

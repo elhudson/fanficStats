@@ -11,3 +11,5 @@ class FanWork(Work):
         pass
     
 
+class FicLibrary(Library):
+    pass

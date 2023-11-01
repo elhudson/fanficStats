@@ -5,19 +5,12 @@ from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LinearRegression
 from sklearn.preprocessing import OneHotEncoder
 
-from structs.works import TV, FanWork
+from structs.works import TV
 
 enc=OneHotEncoder()
 
 res=TV.retrieve(TV.search(title='Our Flag Means Death')[0])
-ofmd=TV(title=res.get('title'), 
-        data=res, 
-        genres=res.get('genres'), 
-        id=res.movieID, 
-        author=res.get('writers')[0], 
-        date=res.get('year'), 
-        fandom='Our Flag Means Death (TV)')
-
+ofmd=TV.create(res)
 
 class FanficModel:
     def __init__(self, target='tags'):

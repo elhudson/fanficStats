@@ -11,8 +11,8 @@ import pandas as pd
 import backoff
 from tqdm.notebook import tqdm
 import math
-from structs.fanworks import FanWork
-from structs.lib import Library
+
+from structs.lib import Library, Work
 
 root_folder=Path(os.path.abspath(__file__)).parent.parent.__str__()
 data_folder=os.path.join(root_folder, 'data/')
@@ -53,17 +53,28 @@ def get_fandoms():
         for r in os.listdir(resources)
         }
     
-    
-    
+def get_fandom_key(name):
+    matches=[]
+    for f in get_fandoms().values():
+        for item in f:
+            if item.find(name)!=-1:
+                matches.append(item)
+    counts=[]
+    for m in matches:
+        query=ao3.Search(fandoms=m)
+        refresh(query)
+        counts.append(query.total_results)
+    fr=pd.DataFrame({'query':matches, 'results':counts}).sort_values(by='results')
+    return fr.at[0, 'query']
+        
 @backoff.on_exception(backoff.expo, (RequestException, ao3.utils.HTTPError))
 def get_page(query, page):
     query.page=page
     refresh(query)
-    return [FanWork(d.__dict__) for d in query.results]
+    return [Work(d.__dict__) for d in query.results]
 
 @backoff.on_exception(backoff.expo, (RequestException, ao3.utils.HTTPError))
 def download_works(fandom):
-    name_transform=get_fandom_filename(fandom)  
     query=ao3.Search(fandoms=fandom)
     refresh(query)
     prev=load_works(fandom)
@@ -75,6 +86,7 @@ def download_works(fandom):
         return prev
     else:
         download_page_range(fandom, query, get_page_range(progress, query))
+        return load_works(fandom)
     
 
 def get_page_range(progress, query):

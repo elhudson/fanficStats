@@ -3,13 +3,14 @@ import pandas as pd
 from tsg.client import SyncTSGClient
 from scrapers.storygraph import get_book
 from scrapers.igdb import search_games, get_game
+from scrapers.ao3 import download_works, get_fandom_key
 from sklearn.linear_model import LinearRegression
 
-from structs.lib import Work, Library
+from structs.lib import Work, WorkNotFoundError
+from structs.fanworks import FicLibrary
 
 db = imdb.Cinemagoer()
 books = SyncTSGClient()
-
 
 class Serializable:
     def serialize(self):
@@ -19,43 +20,18 @@ class Serializable:
         self.seasons = data.get("seasons")
 
 class PubWork(Work):
-    def __init__(self, *args, **kwargs):
-        super().__init__(self, *args, **kwargs)
-        self.genres=kwargs['genres']
-        self.fandom=kwargs['fandom']
-        self.serialized = False
-
-    def get_fics(self):
-        return get_works(self.fandom)
-        return self.fics
-        for id, data in self.fics.items():
-            self.fics[id] = FanWork(
-                title=data["title"],
-                id=data['id'],
-                date=data['date_updated'],
-                author=data['authors'][0]['username'] if len(data['authors'])>0 else None,
-                kudos=data['kudos'],
-                warnings=data["warnings"],
-                hits=data["hits"],
-                characters=data["characters"],
-                chapters=data['nchapters'],
-                tags=data["tags"],
-                fandoms=data["fandoms"],
-                ships=data["relationships"],
-                rating=data["rating"])
-
-class ScreenWork(PubWork):
+    @classmethod
+    def create(cls, data):
+        base=cls.__mro__[1].create(data)
+        base['fandom']=get_fandom_key(base['title'])
+        return cls(base)
     
+    @property        
+    def fics(self):
+        return FicLibrary.create(download_works(self['fandom']))
+    
+class ScreenWork(PubWork):
     search = db.search_movie
-
-    def __init__(self, *args, **kwargs):
-        super().__init__(self, *args, **kwargs)
-        try:
-            self.cast = kwargs["data"].get("cast")[0:10]
-            self.writer = kwargs["data"].get("writers")[0]
-        except TypeError:
-            pass
-
     @staticmethod
     def identifier(data):
         return data.movieID
@@ -67,16 +43,7 @@ class ScreenWork(PubWork):
 
 
 class PageWork(PubWork):
-    
     search=books.get_browse
-
-    def __init__(self, *args, **kwargs):
-        super().__init__(self, *args, **kwargs)
-        self.reviews=kwargs['data'].get('reviews')
-        self.rating=kwargs['data'].get('rating')
-        self.edition=kwargs['data'].get('edition')
-        self.genres=kwargs['data'].get('tags')
-        
     @staticmethod
     def identifier(data):
         return data.id
@@ -89,37 +56,26 @@ class PageWork(PubWork):
         return get_book(id)
 
 class TV(Serializable, ScreenWork):    
-    def __init__(self, *args, **kwargs):
-        super().__init__(self, *args, **kwargs)
-        self.get_episodes(kwargs["data"])
+    @classmethod
+    def create(cls, data):
+        return cls(cls.__mro__[2].create(data.data))
 
 class Podcast(Serializable, ScreenWork):
-    def __init__(self, *args, **kwargs):
-        super().__init__(self, *args, **kwargs)
-        self.get_episodes(kwargs["data"])
-
+   pass
 
 class Movie(ScreenWork):
-    def __init__(self, *args, **kwargs):
-        super().__init__(self, *args, **kwargs)
-
+   pass
 
 class Book(PageWork):
-    def __init__(self, *args, **kwargs):
-        super().__init__(*args, **kwargs)
+    pass
 
 
 class Comic(Serializable, PageWork):
-    def __init__(self, *args, **kwargs):
-        super().__init__(self, *args, **kwargs)
+    pass
 
 
 class VideoGame(PubWork):
-    
     search=search_games
-    
-    def __init__(self, *args, **kwargs):
-        pass
                     
     @staticmethod
     def identifier(data):
