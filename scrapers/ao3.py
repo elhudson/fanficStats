@@ -3,6 +3,7 @@ import os
 from pathlib import Path
 import pickle
 import json
+import numpy as np
 import functools
 from requests import RequestException
 from datetime import datetime
@@ -11,12 +12,41 @@ import pandas as pd
 import backoff
 from tqdm.notebook import tqdm
 import math
+import ast
 
 from structs.lib import Library, Work
 
 root_folder=Path(os.path.abspath(__file__)).parent.parent.__str__()
 data_folder=os.path.join(root_folder, 'data/')
 
+to_list=lambda x: ast.literal_eval(x)
+to_int=lambda x: x
+to_str=lambda x: str(x)
+to_bool=lambda x: bool(x)
+
+fic_fields={
+    "id":to_str,
+    "authors":to_str,
+    "categories":to_list,
+    "nchapters":to_int,
+    "characters":to_list,
+    "complete":to_bool,
+    "date_updated":to_str,
+    "fandoms":to_list,
+    "hits":to_int,
+    "comments":to_int,
+    "kudos":to_int,
+    "language":to_str,
+    "rating":to_str,
+    "relationships":to_list,
+    "summary":to_str,
+    "tags":to_list,
+    "title":to_str,
+    "warnings":to_list,
+    "words":to_int,
+    "expected_chapters":to_int,
+    "bookmarks":to_int
+}
 
 def avoid_ddos(func):
     @functools.wraps(func)
@@ -71,56 +101,72 @@ def get_fandom_key(name):
 def get_page(query, page):
     query.page=page
     refresh(query)
-    return [Work(d.__dict__) for d in query.results]
+    return query.results
 
 @backoff.on_exception(backoff.expo, (RequestException, ao3.utils.HTTPError))
-def download_works(fandom):
+def download_works(fandom, num_works=False):
     query=ao3.Search(fandoms=fandom)
     refresh(query)
     prev=load_works(fandom)
+    
     if not prev.empty:
         progress=prev.shape[0]
     else:
         progress=0
+        
     if progress>=query.total_results:
         return prev
-    else:
-        download_page_range(fandom, query, get_page_range(progress, query))
-        return load_works(fandom)
     
+    else:
+        download_page_range(fandom, query, get_page_range(progress, query, num_works=num_works))
+        return load_works(fandom)
 
-def get_page_range(progress, query):
-    return progress_bar(range(math.floor(progress/20)+1, query.pages+1))
+def get_page_range(progress, query, num_works=False):
+    endpoint=math.floor(num_works/20) if num_works else query.pages+1
+    return progress_bar(range(math.floor(progress/20)+1, endpoint))
+
+def parse_works_chunk(works):
+    data={f:[] for f in fic_fields.keys()}
+    for fanfic in works:
+        ff=fanfic.__dict__
+        for list_name in data.keys():
+            try:
+                data[list_name].append(ff[list_name])
+            except KeyError:
+                data[list_name].append(None)
+    return pd.DataFrame(data)
+
 
 def download_page_range(fandom, query, rng):
     results=[]
     for p in progress_bar(rng, msg='Works downloaded'):
         results.extend(get_page(query, p))
         if p % 10 == 0:
-            fr=Library.create(results)
+            fr=parse_works_chunk(results)
             dump_works(fandom, fr)
             results=[]
     if len(results)>0:
-        fr=Library.create(results)
+        fr=parse_works_chunk(results)
         dump_works(fandom, fr)
     
 
 def dump_works(fandom, works):
     name_transform=get_fandom_filename(fandom)
+    needs_header=False
     if name_transform not in os.listdir(data_folder):
         open(os.path.join(data_folder, name_transform), 'w+').close()
-    works.to_csv(os.path.join(data_folder, name_transform), mode='a')
+        needs_header=True
+    works.to_csv(os.path.join(data_folder, name_transform), mode='a', header=needs_header, index=False, sep='\t')
     
 def load_works(fandom):
     name_transform=get_fandom_filename(fandom)
     if name_transform in os.listdir(data_folder):
-        dedupt=pd.read_csv(os.path.join(data_folder, name_transform), index_col='id').drop_duplicates(subset='title')
-        dedupt.to_csv(os.path.join(data_folder, name_transform), mode='w+')
-        return dedupt
+        data=pd.read_csv(os.path.join(data_folder, name_transform), sep='\t', converters=fic_fields)
+        data.columns = [x.lower() for x in data.columns]
     return pd.DataFrame()
     
 def get_fandom_filename(fandom):
-    return fandom.replace(' ', "_").lower()+'.csv'
+    return fandom.replace(' ', "_").lower()+'.tsv'
 
 def get_num_works(fandom):
     query=ao3.Search(fandoms=fandom)

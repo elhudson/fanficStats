@@ -28,7 +28,7 @@ class PubWork(Work):
     
     @property        
     def fics(self):
-        return FicLibrary.create(download_works(self['fandom']))
+        return FicLibrary.create(fandom=self['fandom'])
     
 class ScreenWork(PubWork):
     search = db.search_movie

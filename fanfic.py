@@ -11,6 +11,7 @@ enc=OneHotEncoder()
 
 res=TV.retrieve(TV.search(title='Our Flag Means Death')[0])
 ofmd=TV.create(res)
+ofmd.fics
 
 class FanficModel:
     def __init__(self, target='tags'):
@@ -19,15 +20,6 @@ class FanficModel:
     @staticmethod
     def to_dataframe(fics):
         return pd.DataFrame.from_records([f.__dict__ for f in fics.values()], index='id')
-        
-    def get_top_tags(self, fics):
-        df=self.to_dataframe(fics)
-        s=[]
-        for d in df['tags']:
-            s.extend(d)
-        tags={t:s.count(t) for t in list(set(s))}
-        counts=pd.DataFrame({'tag':tags.keys(), 'occurrences':tags.values()})
-        return counts.loc[counts['occurrences']>=np.percentile(counts['occurrences'], 95)]['tag'].values.tolist()
         
     def preprocess(self, fics):
         tags=self.get_top_tags(fics)

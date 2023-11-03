@@ -45,8 +45,4 @@ class Library(pd.DataFrame):
     def _constructor_sliced(self):
         return Work
     
-    @staticmethod 
-    def create(data):
-        l=Library(data)
-        l.set_index('id')
-        return l
+    
