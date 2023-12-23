@@ -23,9 +23,7 @@ class FanficModel:
         
     def preprocess(self, fics):
         tags=self.get_top_tags(fics)
-        tag_matrix=pd.DataFrame(index=fics.keys(), columns=tags)
-        return tag_matrix.apply(lambda x: 1 if len([i for i in fics[x.name].tags if i in tags])>0 else 0, axis=1, result_type='broadcast')
-        
+        return tags        
         # for f in fics.values():
         #     for tag in f.tags:
         #         if tag in tags:

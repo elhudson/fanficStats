@@ -163,6 +163,7 @@ def load_works(fandom):
     if name_transform in os.listdir(data_folder):
         data=pd.read_csv(os.path.join(data_folder, name_transform), sep='\t', converters=fic_fields)
         data.columns = [x.lower() for x in data.columns]
+        return data
     return pd.DataFrame()
     
 def get_fandom_filename(fandom):

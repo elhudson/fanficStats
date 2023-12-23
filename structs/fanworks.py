@@ -31,4 +31,4 @@ class FicLibrary(Library):
             s.extend(d)
         tags={t:s.count(t) for t in list(set(s))}
         counts=pd.DataFrame({'tag':tags.keys(), 'occurrences':tags.values()})
-        return counts.loc[counts['occurrences']>=np.percentile(counts['occurrences'], 95)]['tag'].values.tolist()
+        return counts.loc[counts['occurrences']>=np.percentile(counts['occurrences'], 99)]['tag'].values.tolist()
