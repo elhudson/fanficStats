@@ -1,0 +1,6 @@
+[('Underage', -0.03487983233710556),
+ ('Major Character Death', -0.030488137669416465),
+ ('Graphic Depictions Of Violence', -0.027772395576947044),
+ ('Rape/Non-Con', -0.01588448405682925),
+ ('Creator Chose Not To Use Archive Warnings', -0.009435609084702888),
+ ('No Archive Warnings Apply', 0.018076190818477497)]

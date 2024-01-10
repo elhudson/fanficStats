@@ -1,7 +1,6 @@
 import pandas as pd
 import numpy as np
 
-
 def get_values(samples, attr):
     s = []
     for d in samples[attr]:
@@ -14,16 +13,25 @@ def get_values(samples, attr):
         ][attr].values.tolist()
     else:
         return counts[attr].values.tolist()
+    
+def make_single_encoder(fics, feature):
+    samples=fics[feature]
+    vals=list(set(samples.values))
+    enc=np.zeros((len(samples), len(vals)))
+    for f in range(len(fics)):
+        for v in range(len(vals)): 
+            if fics.iloc[f][feature]==vals[v]:
+                enc[f][v]=1.0
+    df=pd.DataFrame(data=enc, columns=vals)
+    return df
 
-def make_encoder(samples):
-    is_list=[s for s in samples.columns if type(samples.iloc[0][s])==list]
-    for l in is_list:
-        values=get_values(samples,l)
-        encoder=np.zeros((len(samples), len(values)))
-        for fic in range(len(encoder)):
-            for attr in values:
-                if attr in samples[l][fic]:
-                    attr_index=np.where(values==attr)
-                    fic_index=fic
-                    encoder[fic_index][attr_index]=1
-        return encoder
+def make_multi_encoder(fics, feature):
+    values=get_values(fics,feature)
+    encoder=np.zeros((len(fics), len(values)))
+    for fic in range(len(encoder)):
+        for attr in range(len(values)):
+            if values[attr] in fics.iloc[fic][feature]:
+                encoder[fic][attr]=1.0
+                print(fic, attr)
+    df=pd.DataFrame(data=encoder, columns=values)
+    return df
