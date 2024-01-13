@@ -1,4 +1,4 @@
 {
-  
-    "editor.fontFamily": "'monospace'"
+  "explorer.excludeGitIgnore": false,
+  "python.pythonPath": "/home/ehudson/.local/share/virtualenvs/fanficStats-gr8ierMq/bin/python"
 }

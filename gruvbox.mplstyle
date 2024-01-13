@@ -27,8 +27,8 @@ axes.spines.bottom : True
 axes.spines.left : True
 
 # FONTS
-font.family : serif
-font.serif : IBM Plex Serif
+font.family : mono
+font.mono : Iosevka
 
 # GRID
 axes.grid : True
