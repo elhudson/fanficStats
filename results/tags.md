@@ -1,735 +1,735 @@
 | Feature                                                                                           |   Approval Coefficient |
 |:--------------------------------------------------------------------------------------------------|-----------------------:|
-| Audio Format: Streaming                                                                           |           -0.526514    |
-| Meet-Cute                                                                                         |           -0.290498    |
-| Episode: s02e05 The Curse of the Seafaring Life                                                   |           -0.257109    |
-| handjobs                                                                                          |           -0.247264    |
-| Self-Discovery                                                                                    |           -0.245746    |
-| Female Blackbeard | Edward Teach                                                                  |           -0.244001    |
-| Podfic Available                                                                                  |           -0.241965    |
-| Complete                                                                                          |           -0.210341    |
-| Top Israel Hands                                                                                  |           -0.206578    |
-| Abuse                                                                                             |           -0.205082    |
-| Post-Season/Series 02                                                                             |           -0.197058    |
-| Threesome                                                                                         |           -0.192208    |
-| POV Jim Jimenez                                                                                   |           -0.192095    |
-| Fancyfuck                                                                                         |           -0.1918      |
-| Alternate Universe - Coffee Shops & Cafés                                                         |           -0.191676    |
-| Epistolary                                                                                        |           -0.184978    |
-| BAMF Stede Bonnet                                                                                 |           -0.179169    |
-| Horror                                                                                            |           -0.178555    |
-| Gentle Kissing                                                                                    |           -0.177627    |
-| Rescue                                                                                            |           -0.169379    |
-| Missing Scene                                                                                     |           -0.164692    |
-| Phone Sex                                                                                         |           -0.163256    |
-| Fake/Pretend Relationship                                                                         |           -0.161658    |
-| Christmas Fluff                                                                                   |           -0.157407    |
-| Alternate Universe - Modern Setting                                                               |           -0.156057    |
-| Protectiveness                                                                                    |           -0.155169    |
-| Polyamory Negotiations                                                                            |           -0.153395    |
-| Intimacy                                                                                          |           -0.153189    |
-| Divorce                                                                                           |           -0.153068    |
-| Self-Esteem Issues                                                                                |           -0.152923    |
-| Israel Hands Lives                                                                                |           -0.150843    |
-| Autistic Blackbeard | Edward Teach                                                                |           -0.149682    |
-| Fluff and Crack                                                                                   |           -0.149298    |
-| Minor Violence                                                                                    |           -0.148293    |
-| Canon Era                                                                                         |           -0.147911    |
-| Social Media                                                                                      |           -0.145197    |
-| Caretaking                                                                                        |           -0.143248    |
-| Love Letters                                                                                      |           -0.143243    |
-| Silly                                                                                             |           -0.14323     |
-| Minor Black Pete/Lucius Spriggs                                                                   |           -0.142449    |
-| Leather                                                                                           |           -0.14121     |
-| Young Israel Hands                                                                                |           -0.140493    |
-| Not Canon Compliant                                                                               |           -0.139629    |
-| Alternate Universe - Different First Meeting                                                      |           -0.138861    |
-| True Love                                                                                         |           -0.135982    |
-| Temporary Character Death                                                                         |           -0.130363    |
-| Blood Drinking                                                                                    |           -0.128292    |
-| Short & Sweet                                                                                     |           -0.128128    |
-| Fingerfucking                                                                                     |           -0.125142    |
-| Implied/Referenced Rape/Non-con                                                                   |           -0.124392    |
-| Facials                                                                                           |           -0.12307     |
-| Grief/Mourning                                                                                    |           -0.122085    |
-| Implied/Referenced Homophobia                                                                     |           -0.120007    |
-| No Angst                                                                                          |           -0.119681    |
-| Face-Sitting                                                                                      |           -0.118404    |
-| Pre-Steddyhands                                                                                   |           -0.118011    |
-| Comfort No Hurt                                                                                   |           -0.117083    |
-| Modern Era                                                                                        |           -0.116396    |
-| Established Blackbeard | Edward Teach/Stede Bonnet/Israel Hands                                   |           -0.115511    |
-| Microfic                                                                                          |           -0.113495    |
-| Our Flag Means Death JanuAUry                                                                     |           -0.110822    |
-| Pre-Relationship                                                                                  |           -0.110257    |
-| Friendship                                                                                        |           -0.110072    |
-| Alternate Universe - Gender Changes                                                               |           -0.109499    |
-| Israel Hands Has a Pain Kink                                                                      |           -0.108291    |
-| Bickering                                                                                         |           -0.108029    |
-| Masochism                                                                                         |           -0.10722     |
-| Art                                                                                               |           -0.106911    |
-| Tooth-Rotting Fluff                                                                               |           -0.10629     |
-| Crack Treated Seriously                                                                           |           -0.106275    |
-| Minor Blackbeard | Edward Teach/Stede Bonnet                                                      |           -0.104877    |
-| Suicide Attempt                                                                                   |           -0.104859    |
-| no beta we die like the badminton twins                                                           |           -0.104792    |
-| Making Up                                                                                         |           -0.104061    |
-| Therapist Lucius Spriggs                                                                          |           -0.100748    |
-| Banter                                                                                            |           -0.100105    |
-| Top Blackbeard | Edward Teach                                                                     |           -0.0991238   |
-| Not Actually Unrequited Love                                                                      |           -0.0985041   |
-| Holidays                                                                                          |           -0.0981372   |
-| Age Regression Little Israel Hands                                                                |           -0.098002    |
-| Touch-Starved Blackbeard | Edward Teach                                                           |           -0.0970963   |
-| fast burn                                                                                         |           -0.0964595   |
-| Torture                                                                                           |           -0.096342    |
-| POV Outsider                                                                                      |           -0.0963369   |
-| Gift Giving                                                                                       |           -0.0954198   |
-| Awkward Flirting                                                                                  |           -0.0948715   |
-| Past Abuse                                                                                        |           -0.0935907   |
-| Magical Realism                                                                                   |           -0.0927518   |
-| Hair Brushing                                                                                     |           -0.0924687   |
-| POV Lucius Spriggs                                                                                |           -0.090732    |
-| Hair Braiding                                                                                     |           -0.089523    |
-| Neck Kissing                                                                                      |           -0.0894546   |
-| Sub Stede Bonnet                                                                                  |           -0.0875937   |
-| Under-negotiated Kink                                                                             |           -0.0868574   |
-| Heavy Angst                                                                                       |           -0.0868062   |
-| Alternate Universe - Historical                                                                   |           -0.0867876   |
-| post-reunion                                                                                      |           -0.0860508   |
-| Flogging                                                                                          |           -0.0856687   |
-| Pining while fucking                                                                              |           -0.0839022   |
-| Enemies to Friends to Lovers                                                                      |           -0.0836303   |
-| Trans Character                                                                                   |           -0.083417    |
-| Coming Out                                                                                        |           -0.0822349   |
-| Canonical Character Death                                                                         |           -0.0819904   |
-| Post-Traumatic Stress Disorder - PTSD                                                             |           -0.0813439   |
-| Dissociation                                                                                      |           -0.0812627   |
-| Injury                                                                                            |           -0.080897    |
-| Kinktober                                                                                         |           -0.0807603   |
-| Character Death                                                                                   |           -0.0806848   |
-| Trauma                                                                                            |           -0.0797756   |
-| Fanvids                                                                                           |           -0.0790371   |
-| Introspection                                                                                     |           -0.0785668   |
-| Declarations Of Love                                                                              |           -0.0767328   |
-| Past Rape/Non-con                                                                                 |           -0.0758209   |
-| Sexual Content                                                                                    |           -0.0750611   |
-| Alternate Universe - Soulmates                                                                    |           -0.07347     |
-| Drinking                                                                                          |           -0.0728312   |
-| Semi-Public Sex                                                                                   |           -0.0726316   |
-| Angst and Humor                                                                                   |           -0.0718836   |
-| soft                                                                                              |           -0.0717068   |
-| Feelings                                                                                          |           -0.0711494   |
-| Literal Sleeping Together                                                                         |           -0.0709651   |
-| First Time Blow Jobs                                                                              |           -0.0709016   |
-| Dry Humping                                                                                       |           -0.0686943   |
-| Our Flag Means Death Spoilers                                                                     |           -0.067416    |
-| Alpha Stede Bonnet                                                                                |           -0.0666619   |
-| Sex Pollen                                                                                        |           -0.0666374   |
-| Fix-It                                                                                            |           -0.0658257   |
-| Competent Stede Bonnet                                                                            |           -0.0655127   |
-| Frottage                                                                                          |           -0.0649384   |
-| Blood and Injury                                                                                  |           -0.0636428   |
-| Christmas                                                                                         |           -0.0632421   |
-| Fix-It of Sorts                                                                                   |           -0.0628658   |
-| Fluff                                                                                             |           -0.0628139   |
-| Possessive Blackbeard | Edward Teach                                                              |           -0.062668    |
-| Misunderstandings                                                                                 |           -0.0621473   |
-| Non-Traditional Alpha/Beta/Omega Dynamics                                                         |           -0.0619159   |
-| Possessive Behavior                                                                               |           -0.061032    |
-| Vignette                                                                                          |           -0.0602813   |
-| Episode: s01e06 The Art of Fuckery                                                                |           -0.0598676   |
-| Nipple Piercings                                                                                  |           -0.0598549   |
-| Top Stede Bonnet                                                                                  |           -0.0592663   |
-| Mild Gore                                                                                         |           -0.0588086   |
-| Implied/Referenced Character Death                                                                |           -0.058432    |
-| Touch-Starved                                                                                     |           -0.0579419   |
-| Mild Blood                                                                                        |           -0.0579146   |
-| Gentle Sex                                                                                        |           -0.0577706   |
-| Marriage Proposal                                                                                 |           -0.0576746   |
-| POV Blackbeard | Edward Teach                                                                     |           -0.0573134   |
-| Chronic Pain                                                                                      |           -0.0567224   |
-| Lucius Spriggs Lives in the Walls of the Revenge                                                  |           -0.0563585   |
-| Mentioned Stede Bonnet                                                                            |           -0.0562993   |
-| Canon Disabled Character                                                                          |           -0.055171    |
-| First Dates                                                                                       |           -0.0551595   |
-| Whipping                                                                                          |           -0.0548594   |
-| Pegging                                                                                           |           -0.0545723   |
-| Israel Hands Gets a Hug                                                                           |           -0.0545699   |
-| Cis Israel Hands                                                                                  |           -0.0542034   |
-| Our Flag Means Death (TV) Season/Series 02 Spoilers                                               |           -0.0524865   |
-| Clothed Sex                                                                                       |           -0.052211    |
-| Protective Stede Bonnet                                                                           |           -0.052011    |
-| Flowers                                                                                           |           -0.0519022   |
-| Tentacles                                                                                         |           -0.0513133   |
-| Genderbending                                                                                     |           -0.051259    |
-| Podfic Welcome                                                                                    |           -0.051053    |
-| blackbonnet - Freeform                                                                            |           -0.0508268   |
-| Post-Canon                                                                                        |           -0.0507947   |
-| Impact Play                                                                                       |           -0.0507619   |
-| Implied Sexual Content                                                                            |           -0.0506745   |
-| Apologies                                                                                         |           -0.05048     |
-| Crossdressing                                                                                     |           -0.0503118   |
-| Soft Dom Stede Bonnet                                                                             |           -0.0498912   |
-| Canon Universe                                                                                    |           -0.0498905   |
-| Slice of Life                                                                                     |           -0.0498726   |
-| Retirement                                                                                        |           -0.0485634   |
-| Recovery                                                                                          |           -0.0485293   |
-| Stede Bonnet Whump                                                                                |           -0.0484027   |
-| Non-Sexual Intimacy                                                                               |           -0.0477476   |
-| Canon-Typical Behavior                                                                            |           -0.047062    |
-| Pining Blackbeard | Edward Teach                                                                  |           -0.0470596   |
-| Painplay                                                                                          |           -0.0469654   |
-| One Shot                                                                                          |           -0.0457888   |
-| Soft Israel Hands                                                                                 |           -0.0450815   |
-| Flirting                                                                                          |           -0.0449164   |
-| Dialogue Heavy                                                                                    |           -0.0448206   |
-| Established Blackbeard | Edward Teach/Stede Bonnet                                                |           -0.0442319   |
-| Ed POV                                                                                            |           -0.0440194   |
-| Finger Sucking                                                                                    |           -0.043838    |
-| Internalized Homophobia                                                                           |           -0.0435827   |
-| Hand Feeding                                                                                      |           -0.0432163   |
-| Our Flag Means Death Fluffvember                                                                  |           -0.0430966   |
-| Laughter During Sex                                                                               |           -0.0430523   |
-| Premature Ejaculation                                                                             |           -0.0430484   |
-| Pre-Canon                                                                                         |           -0.0427107   |
-| Sort Of                                                                                           |           -0.0426686   |
-| Nipple Play                                                                                       |           -0.0426407   |
-| Mental Health Issues                                                                              |           -0.0422238   |
-| Restraints                                                                                        |           -0.041643    |
-| Drama                                                                                             |           -0.0411825   |
-| Fingering                                                                                         |           -0.0408479   |
-| Mentioned Crew of the Revenge (Our Flag Means Death)                                              |           -0.040191    |
-| Kinda                                                                                             |           -0.0398724   |
-| Mirror Sex                                                                                        |           -0.0397206   |
-| Modern AU                                                                                         |           -0.0396424   |
-| Roleplay                                                                                          |           -0.0387311   |
-| Accidental Voyeurism                                                                              |           -0.0379577   |
-| Pre-Slash                                                                                         |           -0.0378365   |
-| Mild Sexual Content                                                                               |           -0.0376624   |
-| Blow Jobs                                                                                         |           -0.0375871   |
-| 69 (Sex Position)                                                                                 |           -0.0370714   |
-| Blackbeard | Edward Teach Has ADHD                                                                |           -0.0355877   |
-| First Meetings                                                                                    |           -0.0351318   |
-| Sub Israel Hands                                                                                  |           -0.0349426   |
-| Pining                                                                                            |           -0.0347911   |
-| Israel Hands-centric                                                                              |           -0.0347759   |
-| Minor Injuries                                                                                    |           -0.0346553   |
-| Backstory                                                                                         |           -0.0343847   |
-| Healing                                                                                           |           -0.0343216   |
-| Talking It Through As a Crew (Our Flag Means Death)                                               |           -0.0338764   |
-| Humor                                                                                             |           -0.0338547   |
-| smau                                                                                              |           -0.0334639   |
-| Blood                                                                                             |           -0.0332305   |
-| Getting Back Together                                                                             |           -0.0331864   |
-| Knotting                                                                                          |           -0.0330247   |
-| Safe Sane and Consensual                                                                          |           -0.0330127   |
-| Author is an Israel Hands Apologist                                                               |           -0.0328776   |
-| Cuddling & Snuggling                                                                              |           -0.0325955   |
-| Age Difference                                                                                    |           -0.0324248   |
-| Flirty Lucius Spriggs                                                                             |           -0.031674    |
-| Hair Washing                                                                                      |           -0.0310823   |
-| Weddings                                                                                          |           -0.0305785   |
-| Amputation                                                                                        |           -0.0303919   |
-| Explicit Language                                                                                 |           -0.0300957   |
-| Sexual Humor                                                                                      |           -0.0292072   |
-| Past Blackbeard | Edward Teach/Israel Hands                                                       |           -0.0280563   |
-| Oblivious Stede Bonnet                                                                            |           -0.0280372   |
-| Hand Jobs                                                                                         |           -0.0276058   |
-| Insecurity                                                                                        |           -0.0271262   |
-| Post-Season/Series 01                                                                             |           -0.0263371   |
-| Confessions                                                                                       |           -0.0261174   |
-| Grinding                                                                                          |           -0.0255689   |
-| stizzy                                                                                            |           -0.0255496   |
-| First Time                                                                                        |           -0.0222136   |
-| Domestic Bliss                                                                                    |           -0.0221384   |
-| Getting Together                                                                                  |           -0.0219471   |
-| Safeword Use                                                                                      |           -0.0217947   |
-| Sharing a Bed                                                                                     |           -0.0215754   |
-| Come Eating                                                                                       |           -0.0210991   |
-| Hopeful Ending                                                                                    |           -0.0209841   |
-| Dom/sub Undertones                                                                                |           -0.0208194   |
-| Halloween                                                                                         |           -0.0208149   |
-| Time Travel                                                                                       |           -0.0208047   |
-| Māori Blackbeard | Edward Teach                                                                   |           -0.0203811   |
-| Emotional Hurt/Comfort                                                                            |           -0.0198936   |
-| Established Relationship                                                                          |           -0.0194573   |
-| Blood and Violence                                                                                |           -0.0192515   |
-| Explicit Sexual Content                                                                           |           -0.0189922   |
-| Author is trans                                                                                   |           -0.0188297   |
-| Bad BDSM Etiquette                                                                                |           -0.0187949   |
-| Ambiguous/Open Ending                                                                             |           -0.0187379   |
-| Blood and Gore                                                                                    |           -0.0186929   |
-| Blindfolds                                                                                        |           -0.0185889   |
-| Sensory Deprivation                                                                               |           -0.0181341   |
-| Childhood Friends                                                                                 |           -0.0179901   |
-| First Kiss                                                                                        |           -0.0175466   |
-| Fluff and Humor                                                                                   |           -0.0174069   |
-| Gender Dysphoria                                                                                  |           -0.0173622   |
-| Episode: s01e05 The Best Revenge Is Dressing Well                                                 |           -0.0172151   |
-| Complicated Relationships                                                                         |           -0.016742    |
-| Angst and Fluff and Smut                                                                          |           -0.0161801   |
-| Love at First Sight                                                                               |           -0.0157522   |
-| Mild Hurt/Comfort                                                                                 |           -0.0155982   |
-| Implied/Referenced Drug Use                                                                       |           -0.0146978   |
-| Stede Bonnet Being an Idiot                                                                       |           -0.014531    |
-| Fluff and Smut                                                                                    |           -0.0139882   |
-| Feelings Realization                                                                              |           -0.0138515   |
-| Israel Hands is Bad at Feelings                                                                   |           -0.013804    |
-| Shower Sex                                                                                        |           -0.0137246   |
-| PWP                                                                                               |           -0.0132048   |
-| Canon Compliant                                                                                   |           -0.0130436   |
-| Kid Fic                                                                                           |           -0.0129022   |
-| Background Relationships                                                                          |           -0.0128474   |
-| Riding                                                                                            |           -0.0126076   |
-| Jealousy                                                                                          |           -0.0119659   |
-| Drag Queens                                                                                       |           -0.0118844   |
-| Polyamory                                                                                         |           -0.0116646   |
-| Murder                                                                                            |           -0.0113443   |
-| Crying                                                                                            |           -0.0113346   |
-| Unhealthy Coping Mechanisms                                                                       |           -0.0106055   |
-| Reunion Sex                                                                                       |           -0.0100796   |
-| Subspace                                                                                          |           -0.0097379   |
-| Happy Ending                                                                                      |           -0.00941646  |
-| Alternate Universe - Fantasy                                                                      |           -0.00933639  |
-| Cheating                                                                                          |           -0.00919653  |
-| Smoking                                                                                           |           -0.00892645  |
-| Implied/Referenced Abuse                                                                          |           -0.00867729  |
-| Mildly Dubious Consent                                                                            |           -0.00848419  |
-| Reconciliation                                                                                    |           -0.00845549  |
-| Double Penetration                                                                                |           -0.00797655  |
-| Marijuana                                                                                         |           -0.00782535  |
-| Dubious Consent                                                                                   |           -0.0074249   |
-| Stargazing                                                                                        |           -0.00690146  |
-| Depression                                                                                        |           -0.00655926  |
-| Crew as Family                                                                                    |           -0.00635667  |
-| First Time Bottoming                                                                              |           -0.00609637  |
-| Top Lucius Spriggs                                                                                |           -0.00600146  |
-| Implied/Referenced Alcohol Abuse/Alcoholism                                                       |           -0.00585718  |
-| Leather Kink                                                                                      |           -0.00584317  |
-| Crying During Sex                                                                                 |           -0.00568043  |
-| 5+1 Things                                                                                        |           -0.0054252   |
-| POV Roach (Our Flag Means Death)                                                                  |           -0.00526458  |
-| Rough Sex                                                                                         |           -0.0035704   |
-| Alternate Universe - Canon Divergence                                                             |           -0.00316118  |
-| Mating Cycles/In Heat                                                                             |           -0.00258165  |
-| Strap-Ons                                                                                         |           -0.00180027  |
-| Angst and Hurt/Comfort                                                                            |           -0.00122746  |
-| Boys In Love                                                                                      |           -0.000304107 |
-| Developing Relationship                                                                           |           -0.000146043 |
-| Bondage                                                                                           |            0.000590244 |
-| Unhealthy Relationships                                                                           |            0.000694966 |
-| Miscommunication                                                                                  |            0.000809371 |
-| Found Family                                                                                      |            0.00188933  |
-| Ghosts                                                                                            |            0.0018961   |
-| Homophobia                                                                                        |            0.00217897  |
-| Friends With Benefits                                                                             |            0.0022047   |
-| Swearing                                                                                          |            0.0029189   |
-| Praise Kink                                                                                       |            0.00336466  |
-| Lucius Spriggs Deserves a Raise                                                                   |            0.00352674  |
-| Dildos                                                                                            |            0.00359855  |
-| Wall Sex                                                                                          |            0.00412239  |
-| Sexual Roleplay                                                                                   |            0.00468793  |
-| Episode: s01e10 Wherever You Go There You Are                                                     |            0.00500236  |
-| Making Out                                                                                        |            0.00505256  |
-| Friends to Lovers                                                                                 |            0.00541012  |
-| Tattoos                                                                                           |            0.00573199  |
-| Fantasizing                                                                                       |            0.00589433  |
-| Sharing Clothes                                                                                   |            0.00597004  |
-| POV Stede Bonnet                                                                                  |            0.00616147  |
-| Scars                                                                                             |            0.00616919  |
-| Oral Sex                                                                                          |            0.00658439  |
-| Canon-Typical Violence                                                                            |            0.0067033   |
-| Knifeplay                                                                                         |            0.00676762  |
-| Crack                                                                                             |            0.00678742  |
-| Unresolved Sexual Tension                                                                         |            0.00685152  |
-| Love Confessions                                                                                  |            0.00738446  |
-| Plot What Plot/Porn Without Plot                                                                  |            0.00741062  |
-| Light BDSM                                                                                        |            0.00785713  |
-| Soft Stede Bonnet                                                                                 |            0.0086196   |
-| Suicidal Thoughts                                                                                 |            0.00871909  |
-| Edging                                                                                            |            0.00872281  |
-| Intercrural Sex                                                                                   |            0.00883684  |
-| Infidelity                                                                                        |            0.00909739  |
-| Power Imbalance                                                                                   |            0.00926381  |
-| Israel Hands Has Feelings                                                                         |            0.00940433  |
-| Creampie                                                                                          |            0.00958464  |
-| Protective Blackbeard | Edward Teach                                                              |            0.00983583  |
-| Vampires                                                                                          |            0.0105833   |
-| Rimming                                                                                           |            0.0113068   |
-| Israel Hands Redemption                                                                           |            0.0115939   |
-| Domestic Fluff                                                                                    |            0.0119668   |
-| Choking                                                                                           |            0.0120995   |
-| Break Up                                                                                          |            0.0122999   |
-| kind of                                                                                           |            0.0123072   |
-| Hurt/Comfort                                                                                      |            0.0123827   |
-| Author is Open to Hearing about Dead Batteries                                                    |            0.0130804   |
-| Coming In Pants                                                                                   |            0.0135344   |
-| Near Death Experiences                                                                            |            0.0136859   |
-| Canon Non-Binary Character                                                                        |            0.0138342   |
-| Implied/Referenced Domestic Violence                                                              |            0.013987    |
-| Fluffvember                                                                                       |            0.0139904   |
-| Light Dom/sub                                                                                     |            0.0144758   |
-| Stede Bonnet Has a Big Dick                                                                       |            0.0147855   |
-| I Wrote This Instead of Sleeping                                                                  |            0.0148993   |
-| Anal Sex                                                                                          |            0.0149126   |
-| Blackbeard | Edward Teach Loves Stede Bonnet                                                      |            0.0149997   |
-| Face Slapping                                                                                     |            0.0151412   |
-| Body Worship                                                                                      |            0.0151441   |
-| Stede Bonnet Loves Blackbeard | Edward Teach                                                      |            0.0154332   |
-| Sleepy Cuddles                                                                                    |            0.0157108   |
-| Character Study                                                                                   |            0.0157995   |
-| Dirty Talk                                                                                        |            0.0169484   |
-| Bathing/Washing                                                                                   |            0.0169549   |
-| Unrequited Love                                                                                   |            0.0172963   |
-| Blackbeard | Edward Teach Has a Praise Kink                                                       |            0.0174081   |
-| Family                                                                                            |            0.0175033   |
-| Unreliable Narrator                                                                               |            0.0178263   |
-| Sub Blackbeard | Edward Teach                                                                     |            0.0181977   |
-| Romance                                                                                           |            0.0183156   |
-| Hair-pulling                                                                                      |            0.0184514   |
-| Trans Israel Hands                                                                                |            0.0185092   |
-| Service Top Stede Bonnet                                                                          |            0.0185368   |
-| Alternate Universe - College/University                                                           |            0.0186874   |
-| Minor Character Death                                                                             |            0.0187318   |
-| Voyeurism                                                                                         |            0.0188359   |
-| Injury Recovery                                                                                   |            0.0193803   |
-| Exhibitionism                                                                                     |            0.0198557   |
-| Butt Plugs                                                                                        |            0.0199085   |
-| Massage                                                                                           |            0.0202979   |
-| Post-Coital Cuddling                                                                              |            0.0204894   |
-| Cis Stede Bonnet                                                                                  |            0.0206947   |
-| Coming Untouched                                                                                  |            0.0208314   |
-| Cuddling                                                                                          |            0.0212335   |
-| Safewords                                                                                         |            0.02137     |
-| Alpha/Beta/Omega Dynamics                                                                         |            0.0215739   |
-| Blackbeard | Edward Teach Deserves Nice Things                                                    |            0.0218814   |
-| Panic Attacks                                                                                     |            0.0221896   |
-| Lucius Spriggs Lives                                                                              |            0.0223182   |
-| Lucius Spriggs is a Little Shit                                                                   |            0.0228967   |
-| Degradation                                                                                       |            0.0233502   |
-| Soft Dom Blackbeard | Edward Teach                                                                |            0.0242646   |
-| Drunk Sex                                                                                         |            0.0244195   |
-| Trans Stede Bonnet                                                                                |            0.0244923   |
-| Soft Blackbeard | Edward Teach                                                                    |            0.0246584   |
-| Masturbation                                                                                      |            0.0249316   |
-| Implied/Referenced Child Abuse                                                                    |            0.0254796   |
-| Vaginal Fingering                                                                                 |            0.0255516   |
-| Swordfighting                                                                                     |            0.0258282   |
-| Past Blackbeard | Edward Teach/"Calico" Jack Rackham                                              |            0.0260624   |
-| Biting                                                                                            |            0.0261747   |
-| Jealous Blackbeard | Edward Teach                                                                 |            0.0270381   |
-| Not Beta Read                                                                                     |            0.0271567   |
-| Trans Blackbeard | Edward Teach                                                                   |            0.0271958   |
-| Self-Harm                                                                                         |            0.0280866   |
-| Consensual Somnophilia                                                                            |            0.0282056   |
-| Angst with a Happy Ending                                                                         |            0.0282401   |
-| Wax Play                                                                                          |            0.0282778   |
-| Past Child Abuse                                                                                  |            0.0284123   |
-| Hurt Israel Hands                                                                                 |            0.0286732   |
-| Season/Series 02                                                                                  |            0.0287934   |
-| Anal Fingering                                                                                    |            0.0289459   |
-| Nonbinary Character                                                                               |            0.0290677   |
-| Dom/sub                                                                                           |            0.0300486   |
-| Prompt Fic                                                                                        |            0.0301646   |
-| Kissing                                                                                           |            0.0302547   |
-| Demisexual Stede Bonnet                                                                           |            0.0308075   |
-| Implied/Referenced Suicide                                                                        |            0.0311331   |
-| Episode: s01e09 Act of Grace                                                                      |            0.0312214   |
-| POV Alternating                                                                                   |            0.0314351   |
-| Comedy                                                                                            |            0.0324925   |
-| Implied/Referenced Torture                                                                        |            0.0328991   |
-| No Beta We die like Badmintons                                                                    |            0.033091    |
-| Forgiveness                                                                                       |            0.0336334   |
-| Vomiting                                                                                          |            0.0336815   |
-| Blackbeard | Edward Teach's Kraken Era                                                            |            0.0338449   |
-| Overstimulation                                                                                   |            0.0339413   |
-| Kidnapping                                                                                        |            0.0343492   |
-| Post-Episode: s01e10 Wherever You Go There You Are                                                |            0.0345841   |
-| Gay Pirates                                                                                       |            0.0349647   |
-| Alternate Universe - Vampire                                                                      |            0.0358957   |
-| Idiots in Love                                                                                    |            0.0359785   |
-| Fluff and Hurt/Comfort                                                                            |            0.036797    |
-| Omega Verse                                                                                       |            0.0371377   |
-| no beta we die like karl                                                                          |            0.0385165   |
-| Breathplay                                                                                        |            0.0387862   |
-| Childhood Trauma                                                                                  |            0.0392275   |
-| Threats of Violence                                                                               |            0.0394059   |
-| Alcohol                                                                                           |            0.0396287   |
-| Mutual Pining                                                                                     |            0.0399667   |
-| Marking                                                                                           |            0.0403459   |
-| Falling In Love                                                                                   |            0.0405311   |
-| Anxiety                                                                                           |            0.0406758   |
-| Men Crying                                                                                        |            0.0406947   |
-| Somnophilia                                                                                       |            0.040815    |
-| Enemies to Lovers                                                                                 |            0.0410561   |
-| Monsterfucking                                                                                    |            0.0411022   |
-| Bottom Israel Hands                                                                               |            0.041116    |
-| Porn with Feelings                                                                                |            0.0412007   |
-| Digital Art                                                                                       |            0.0415872   |
-| Cooking                                                                                           |            0.0417109   |
-| Come Swallowing                                                                                   |            0.042275    |
-| Episode: s02e06 Calypso's Birthday                                                                |            0.0422784   |
-| Spoilers                                                                                          |            0.0424778   |
-| BDSM                                                                                              |            0.0437003   |
-| Light Angst                                                                                       |            0.0438312   |
-| Lucius Spriggs Needs a Hug                                                                        |            0.0440916   |
-| Stede Bonnet Apologizes                                                                           |            0.0446426   |
-| Tenderness                                                                                        |            0.0448317   |
-| Switch Blackbeard | Edward Teach                                                                  |            0.0452214   |
-| Reunions                                                                                          |            0.0457652   |
-| Communication                                                                                     |            0.0465563   |
-| Eventual Smut                                                                                     |            0.0465774   |
-| Blackbeard | Edward Teach Thinks Stede Bonnet is Dead                                             |            0.0479824   |
-| Blackbeard's Bar & Grill & Other Delicacies & Delights & Fishing Equipment (Our Flag Means Death) |            0.0482312   |
-| POV Israel Hands                                                                                  |            0.0485567   |
-| Guilt                                                                                             |            0.0485767   |
-| Pet Names                                                                                         |            0.0498394   |
-| Post Season 1                                                                                     |            0.0503117   |
-| Israel Hands Needs Therapy                                                                        |            0.0505521   |
-| Dom Stede Bonnet                                                                                  |            0.0508954   |
-| Tender Sex                                                                                        |            0.0509956   |
-| Cunnilingus                                                                                       |            0.0516908   |
-| Sick Character                                                                                    |            0.05183     |
-| Alcohol Abuse/Alcoholism                                                                          |            0.0518658   |
-| Alpha/Omega                                                                                       |            0.0519865   |
-| Stockings                                                                                         |            0.0521164   |
-| Autistic Stede Bonnet                                                                             |            0.0524966   |
-| Bittersweet Ending                                                                                |            0.0525991   |
-| Consensual Non-Consent                                                                            |            0.0526625   |
-| Whump                                                                                             |            0.0527542   |
-| Period-Typical Homophobia                                                                         |            0.052891    |
-| Emotional Manipulation                                                                            |            0.0531612   |
-| Israel Hands Loves Blackbeard | Edward Teach                                                      |            0.0531772   |
-| Dancing                                                                                           |            0.0533435   |
-| Alpha Blackbeard | Edward Teach                                                                   |            0.0534098   |
-| Blackbeard | Edward Teach Needs a Hug                                                             |            0.0539912   |
-| "Calico" Jack Rackham is a Simp for Israel Hands                                                  |            0.0541635   |
-| Possessive Sex                                                                                    |            0.054581    |
-| "Calico" Jack Rackham Being an Asshole                                                            |            0.054946    |
-| Drabble                                                                                           |            0.0549885   |
-| Romantic Fluff                                                                                    |            0.0552327   |
-| Explicit Consent                                                                                  |            0.055288    |
-| Begging                                                                                           |            0.0553118   |
-| Rope Bondage                                                                                      |            0.0555413   |
-| Spitroasting                                                                                      |            0.0558028   |
-| Sex Toys                                                                                          |            0.055946    |
-| Attempt at Humor                                                                                  |            0.0561053   |
-| Kink Negotiation                                                                                  |            0.0564798   |
-| Soulmates                                                                                         |            0.056843    |
-| Shameless Smut                                                                                    |            0.0572715   |
-| Enthusiastic Consent                                                                              |            0.0572906   |
-| Sexual Tension                                                                                    |            0.0578719   |
-| Israel Hands Needs a Hug                                                                          |            0.0581508   |
-| Rough Oral Sex                                                                                    |            0.0582488   |
-| Desk Sex                                                                                          |            0.0583849   |
-| Resolved Sexual Tension                                                                           |            0.0589267   |
-| Alternate Universe                                                                                |            0.059087    |
-| Aftercare                                                                                         |            0.0591258   |
-| Angst and Feels                                                                                   |            0.0594097   |
-| Switch Stede Bonnet                                                                               |            0.0596479   |
-| Post-Finale                                                                                       |            0.0597479   |
-| Eventual Happy Ending                                                                             |            0.0597656   |
-| Mutual Masturbation                                                                               |            0.0598127   |
-| Pet Play                                                                                          |            0.0626649   |
-| Sex Work                                                                                          |            0.0629602   |
-| Blackbeard | Edward Teach is Bad at Feelings                                                      |            0.0638761   |
-| Slow Dancing                                                                                      |            0.0641894   |
-| Blackbeard | Edward Teach is Not Okay                                                             |            0.064272    |
-| Orgasm Delay/Denial                                                                               |            0.0645683   |
-| Sweet                                                                                             |            0.0647326   |
-| Body Horror                                                                                       |            0.0647753   |
-| Stede Bonnet Needs a Hug                                                                          |            0.0649197   |
-| Recreational Drug Use                                                                             |            0.066102    |
-| Reunion                                                                                           |            0.0666562   |
-| Barebacking                                                                                       |            0.0667473   |
-| Lingerie                                                                                          |            0.067874    |
-| Face-Fucking                                                                                      |            0.0684079   |
-| Israel Hands Has Issues                                                                           |            0.0684509   |
-| Piercings                                                                                         |            0.0688458   |
-| Vaginal Sex                                                                                       |            0.068899    |
-| Stabbing                                                                                          |            0.0691295   |
-| Sex                                                                                               |            0.0694752   |
-| Power Dynamics                                                                                    |            0.0699198   |
-| Implied/Referenced Self-Harm                                                                      |            0.0708203   |
-| Post-Canon Fix-It                                                                                 |            0.0718906   |
-| Angst                                                                                             |            0.0724363   |
-| Fluff and Angst                                                                                   |            0.0743607   |
-| Eventual Romance                                                                                  |            0.0752938   |
-| First Love                                                                                        |            0.0762721   |
-| Slow Burn                                                                                         |            0.07635     |
-| No Beta                                                                                           |            0.0768758   |
-| Hate Sex                                                                                          |            0.0770787   |
-| Threesome - M/M/M                                                                                 |            0.0775983   |
-| Trans Male Character                                                                              |            0.0779944   |
-| Blowjobs                                                                                          |            0.0789761   |
-| Violence                                                                                          |            0.0793321   |
-| Bathroom Sex                                                                                      |            0.0800072   |
-| Gags                                                                                              |            0.0801168   |
-| Dom Israel Hands                                                                                  |            0.0803648   |
-| Spit As Lube                                                                                      |            0.0815449   |
-| Everyone Is Gay                                                                                   |            0.0820352   |
-| Edgeplay                                                                                          |            0.0822367   |
-| Stede Bonnet is Trying His Best                                                                   |            0.0831497   |
-| Teasing                                                                                           |            0.0841875   |
-| Drowning                                                                                          |            0.0848972   |
-| Anxiety Attacks                                                                                   |            0.0866938   |
-| Size Kink                                                                                         |            0.0868715   |
-| Rape/Non-con Elements                                                                             |            0.0869245   |
-| Our Flag Means Death (TV) Season/Series 02                                                        |            0.0872226   |
-| Breaking Up & Making Up                                                                           |            0.0879189   |
-| Bottom Blackbeard | Edward Teach                                                                  |            0.0887077   |
-| Tentacle Sex                                                                                      |            0.0887393   |
-| Alternate Universe - Magic                                                                        |            0.088969    |
-| Gay                                                                                               |            0.0891371   |
-| Kinktober 2022                                                                                    |            0.0891517   |
-| Multiple Orgasms                                                                                  |            0.0901888   |
-| Sexual Fantasy                                                                                    |            0.0921782   |
-| Comfort                                                                                           |            0.0932537   |
-| Light Bondage                                                                                     |            0.0936787   |
-| Stede Bonnet Has Self-Esteem Issues                                                               |            0.0947254   |
-| Penis In Vagina Sex                                                                               |            0.0960177   |
-| Bullying                                                                                          |            0.0965267   |
-| Romantic Comedy                                                                                   |            0.0970108   |
-| Ficlet                                                                                            |            0.097102    |
-| Action/Adventure                                                                                  |            0.0974101   |
-| Short One Shot                                                                                    |            0.0983082   |
-| Download Available                                                                                |            0.100496    |
-| Porn With Plot                                                                                    |            0.101587    |
-| PIV Sex                                                                                           |            0.102077    |
-| Deepthroating                                                                                     |            0.102257    |
-| Canon-Typical Historical Inaccuracy (Our Flag Means Death)                                        |            0.103054    |
-| Cock Warming                                                                                      |            0.103788    |
-| Strangers to Lovers                                                                               |            0.104291    |
-| Supernatural Elements                                                                             |            0.104427    |
-| Flashbacks                                                                                        |            0.105199    |
-| Domestic                                                                                          |            0.105222    |
-| steddyhands                                                                                       |            0.105323    |
-| Love                                                                                              |            0.105438    |
-| Squirting                                                                                         |            0.105568    |
-| No Smut                                                                                           |            0.105868    |
-| Daddy Kink                                                                                        |            0.1076      |
-| Protective Israel Hands                                                                           |            0.107903    |
-| Revenge                                                                                           |            0.107916    |
-| Post-Break Up                                                                                     |            0.108925    |
-| Sickfic                                                                                           |            0.109702    |
-| Hugs                                                                                              |            0.111054    |
-| Hurt Blackbeard | Edward Teach                                                                    |            0.111137    |
-| Nightmares                                                                                        |            0.112432    |
-| Breeding Kink                                                                                     |            0.113989    |
-| Magic                                                                                             |            0.114754    |
-| Other Additional Tags to Be Added                                                                 |            0.115352    |
-| Self-Hatred                                                                                       |            0.115355    |
-| Humiliation                                                                                       |            0.115629    |
-| Crew of the Revenge as Family (Our Flag Means Death)                                              |            0.116535    |
-| Verbal Humiliation                                                                                |            0.11655     |
-| Omega Israel Hands                                                                                |            0.117623    |
-| Boys Kissing                                                                                      |            0.118323    |
-| Major Character Injury                                                                            |            0.121582    |
-| Collars                                                                                           |            0.121757    |
-| Married Couple                                                                                    |            0.122814    |
-| Meta                                                                                              |            0.123916    |
-| Blackbeard | Edward Teach and Stede Bonnet in Love                                                |            0.126335    |
-| Pain                                                                                              |            0.126562    |
-| Emotional Baggage                                                                                 |            0.127414    |
-| Pregnancy                                                                                         |            0.128293    |
-| Sexting                                                                                           |            0.128634    |
-| Hurt No Comfort                                                                                   |            0.128634    |
-| References to Depression                                                                          |            0.128724    |
-| Rutting                                                                                           |            0.129332    |
-| Minor Oluwande Boodhari/Jim Jimenez                                                               |            0.129377    |
-| Spanking                                                                                          |            0.132134    |
-| Blackbeard | Edward Teach Has Abandonment Issues                                                  |            0.1353      |
-| Dacryphilia                                                                                       |            0.136072    |
-| Actual Kraken Blackbeard | Edward Teach                                                           |            0.136245    |
-| Shibari                                                                                           |            0.136385    |
-| Public Sex                                                                                        |            0.137072    |
-| Blackbeard | Edward Teach Loves Israel Hands                                                      |            0.138743    |
-| Dom Blackbeard | Edward Teach                                                                     |            0.140976    |
-| Original Character(s)                                                                             |            0.14304     |
-| OFMD Kinktober                                                                                    |            0.144003    |
-| Breeding                                                                                          |            0.1461      |
-| Israel Hands Whump                                                                                |            0.146189    |
-| Religious Imagery & Symbolism                                                                     |            0.146947    |
-| Gun Violence                                                                                      |            0.14774     |
-| POV Multiple                                                                                      |            0.150538    |
-| Emotional Hurt                                                                                    |            0.151985    |
-| Orgasm Control                                                                                    |            0.15479     |
-| Injured Stede Bonnet                                                                              |            0.159257    |
-| Smut                                                                                              |            0.160179    |
-| Kinktober 2023                                                                                    |            0.163959    |
-| Podfic Length: 0-10 Minutes                                                                       |            0.1643      |
-| t4t                                                                                               |            0.16496     |
-| Emotional Sex                                                                                     |            0.164971    |
-| Marriage                                                                                          |            0.165963    |
-| Holding Hands                                                                                     |            0.166385    |
-| Extremely Dubious Consent                                                                         |            0.166569    |
-| Feminization                                                                                      |            0.166922    |
-| Mentioned Blackbeard | Edward Teach                                                               |            0.167466    |
-| Orgasm Denial                                                                                     |            0.169006    |
-| Sad Ending                                                                                        |            0.169356    |
-| Beach Sex                                                                                         |            0.169962    |
-| gentlebeard                                                                                       |            0.1756      |
-| Poetry                                                                                            |            0.176472    |
-| Gay Sex                                                                                           |            0.176669    |
-| Hurt Stede Bonnet                                                                                 |            0.177341    |
-| No beta we die like the badmintons                                                                |            0.177884    |
-| Curses                                                                                            |            0.17973     |
-| One-Sided Blackbeard | Edward Teach/Israel Hands                                                  |            0.180428    |
-| Young Blackbeard | Edward Teach                                                                   |            0.182251    |
-| Heartbreak                                                                                        |            0.182846    |
-| Vibrators                                                                                         |            0.184263    |
-| I'm Bad At Tagging                                                                                |            0.186003    |
-| Masochist Israel Hands                                                                            |            0.18669     |
-| Hijinks & Shenanigans                                                                             |            0.189002    |
-| Bottom Stede Bonnet                                                                               |            0.189475    |
-| Puppy Play                                                                                        |            0.193157    |
-| Fisting                                                                                           |            0.193266    |
-| Past Relationship(s)                                                                              |            0.19333     |
-| Out of Character                                                                                  |            0.198143    |
-| Dead Dove: Do Not Eat                                                                             |            0.198499    |
-| Hurt                                                                                              |            0.202688    |
-| ofmd                                                                                              |            0.20752     |
-| Pirates                                                                                           |            0.207603    |
-| Hallucinations                                                                                    |            0.217231    |
-| Jealous Israel Hands                                                                              |            0.220528    |
-| Drug Use                                                                                          |            0.221553    |
-| Punishment                                                                                        |            0.222759    |
-| Age Regression Caregiver Stede Bonnet                                                             |            0.232897    |
-| Warning: Israel Hands                                                                             |            0.23319     |
-| Blood Kink                                                                                        |            0.236545    |
-| No beta we die like Lucius                                                                        |            0.238064    |
-| Podfic Length: 30-45 Minutes                                                                      |            0.245183    |
-| Piña Coladas                                                                                      |            0.24633     |
-| Family Fluff                                                                                      |            0.246837    |
-| Dom Lucius Spriggs                                                                                |            0.253712    |
-| OFMD Kinktober 2022                                                                               |            0.255906    |
-| Objectification                                                                                   |            0.256171    |
-| Audio Format: MP3                                                                                 |            0.273885    |
-| How Do I Tag                                                                                      |            0.276406    |
-| Lesbian Sex                                                                                       |            0.277364    |
-| Podfic & Podficced Works                                                                          |            0.281387    |
-| our flag means death - Freeform                                                                   |            0.282809    |
-| Sad                                                                                               |            0.283294    |
-| Developing Friendships                                                                            |            0.292854    |
-| Bisexual Blackbeard | Edward Teach                                                                |            0.293864    |
-| Crossover                                                                                         |            0.296452    |
-| Cute                                                                                              |            0.305606    |
-| Weight Gain                                                                                       |            0.30996     |
-| Fanart                                                                                            |            0.315679    |
-| Watersports                                                                                       |            0.352327    |
-| ofmdkinktober                                                                                     |            0.354771    |
-| Podfic Length: 20-30 Minutes                                                                      |            0.355147    |
-| Songfic                                                                                           |            0.372074    |
-| Our Flag Means Death Kinktober 2023                                                               |            0.377866    |
-| POV Second Person                                                                                 |            0.380648    |
-| Podfic Length: 10-20 Minutes                                                                      |            0.383853    |
-| Age Regression/De-Aging                                                                           |            0.418335    |
-| Cock & Ball Torture                                                                               |            0.42326     |
-| Tickling                                                                                          |            0.478642    |
-| Podfic                                                                                            |            0.49513     |
-| Mpreg                                                                                             |            0.641904    |
-| Female Stede Bonnet                                                                               |            0.644642    |
-| Omorashi                                                                                          |            0.67659     |
-| Belly Kink                                                                                        |            0.795828    |
-| NSFW Art                                                                                          |            0.89449     |
+| Fancyfuck                                                                                         |           -0.495751    |
+| Female Blackbeard | Edward Teach                                                                  |           -0.339246    |
+| Self-Discovery                                                                                    |           -0.330352    |
+| Meet-Cute                                                                                         |           -0.281744    |
+| Podfic Available                                                                                  |           -0.252861    |
+| Complete                                                                                          |           -0.208927    |
+| Young Israel Hands                                                                                |           -0.203675    |
+| Christmas Fluff                                                                                   |           -0.202564    |
+| Minor Black Pete/Lucius Spriggs                                                                   |           -0.199257    |
+| Coming Out                                                                                        |           -0.194063    |
+| Gentle Kissing                                                                                    |           -0.190371    |
+| Episode: s02e05 The Curse of the Seafaring Life                                                   |           -0.187937    |
+| handjobs                                                                                          |           -0.186488    |
+| Canon Era                                                                                         |           -0.1846      |
+| Top Israel Hands                                                                                  |           -0.183806    |
+| Audio Format: Streaming                                                                           |           -0.18205     |
+| BAMF Stede Bonnet                                                                                 |           -0.178583    |
+| Pre-Steddyhands                                                                                   |           -0.176435    |
+| Post-Season/Series 02                                                                             |           -0.16761     |
+| Grief/Mourning                                                                                    |           -0.16354     |
+| Phone Sex                                                                                         |           -0.162426    |
+| Alternate Universe - Coffee Shops & Cafés                                                         |           -0.161577    |
+| POV Outsider                                                                                      |           -0.153409    |
+| Alternate Universe - Modern Setting                                                               |           -0.151309    |
+| Alternate Universe - Historical                                                                   |           -0.150037    |
+| Drama                                                                                             |           -0.148717    |
+| Friendship                                                                                        |           -0.143947    |
+| Kinktober                                                                                         |           -0.142186    |
+| Amputation                                                                                        |           -0.141581    |
+| Not Canon Compliant                                                                               |           -0.140823    |
+| Canon Universe                                                                                    |           -0.139397    |
+| Safe Sane and Consensual                                                                          |           -0.139202    |
+| Threesome                                                                                         |           -0.136539    |
+| Injury                                                                                            |           -0.136397    |
+| Holidays                                                                                          |           -0.136312    |
+| Flogging                                                                                          |           -0.13631     |
+| Fake/Pretend Relationship                                                                         |           -0.135529    |
+| Minor Blackbeard | Edward Teach/Stede Bonnet                                                      |           -0.1333      |
+| Abuse                                                                                             |           -0.13159     |
+| Literal Sleeping Together                                                                         |           -0.13149     |
+| Suicide Attempt                                                                                   |           -0.130783    |
+| Epistolary                                                                                        |           -0.130062    |
+| Retirement                                                                                        |           -0.129684    |
+| Established Blackbeard | Edward Teach/Stede Bonnet/Israel Hands                                   |           -0.129246    |
+| Israel Hands Lives                                                                                |           -0.12843     |
+| Israel Hands Has a Pain Kink                                                                      |           -0.126629    |
+| Missing Scene                                                                                     |           -0.126485    |
+| Divorce                                                                                           |           -0.121163    |
+| Minor Violence                                                                                    |           -0.121099    |
+| Time Travel                                                                                       |           -0.120591    |
+| Self-Esteem Issues                                                                                |           -0.11618     |
+| Fluff and Crack                                                                                   |           -0.115185    |
+| Hair Brushing                                                                                     |           -0.11486     |
+| Implied/Referenced Rape/Non-con                                                                   |           -0.114383    |
+| Social Media                                                                                      |           -0.113805    |
+| Fingerfucking                                                                                     |           -0.112891    |
+| POV Jim Jimenez                                                                                   |           -0.112799    |
+| Microfic                                                                                          |           -0.112026    |
+| Premature Ejaculation                                                                             |           -0.108653    |
+| Therapist Lucius Spriggs                                                                          |           -0.108211    |
+| Author is trans                                                                                   |           -0.108003    |
+| Laughter During Sex                                                                               |           -0.107485    |
+| Blood and Injury                                                                                  |           -0.107019    |
+| Modern Era                                                                                        |           -0.106705    |
+| Leather                                                                                           |           -0.105817    |
+| fast burn                                                                                         |           -0.105544    |
+| Alternate Universe - Soulmates                                                                    |           -0.105007    |
+| Intimacy                                                                                          |           -0.103881    |
+| Stede Bonnet Has Self-Esteem Issues                                                               |           -0.101769    |
+| Caretaking                                                                                        |           -0.0999372   |
+| Nipple Play                                                                                       |           -0.0978715   |
+| Angst and Humor                                                                                   |           -0.0975828   |
+| Rescue                                                                                            |           -0.0964807   |
+| Marriage Proposal                                                                                 |           -0.0959135   |
+| Breathplay                                                                                        |           -0.0947528   |
+| Feelings                                                                                          |           -0.0939397   |
+| Episode: s01e06 The Art of Fuckery                                                                |           -0.0937935   |
+| Implied/Referenced Character Death                                                                |           -0.0936027   |
+| Implied/Referenced Drug Use                                                                       |           -0.0925258   |
+| Emotional Manipulation                                                                            |           -0.0921342   |
+| Mentioned Stede Bonnet                                                                            |           -0.0913412   |
+| Top Lucius Spriggs                                                                                |           -0.0908033   |
+| Internalized Homophobia                                                                           |           -0.0896817   |
+| Flowers                                                                                           |           -0.089065    |
+| no beta we die like the badminton twins                                                           |           -0.0890289   |
+| Past Rape/Non-con                                                                                 |           -0.0886542   |
+| Emotional Baggage                                                                                 |           -0.0879068   |
+| Blood and Gore                                                                                    |           -0.0877086   |
+| Audio Format: MP3                                                                                 |           -0.0851377   |
+| Power Imbalance                                                                                   |           -0.0842503   |
+| Torture                                                                                           |           -0.0834394   |
+| Weddings                                                                                          |           -0.0832074   |
+| Top Blackbeard | Edward Teach                                                                     |           -0.0828881   |
+| Autistic Blackbeard | Edward Teach                                                                |           -0.082254    |
+| Blood Drinking                                                                                    |           -0.0808837   |
+| Temporary Character Death                                                                         |           -0.0800698   |
+| Tooth-Rotting Fluff                                                                               |           -0.0796442   |
+| Clothed Sex                                                                                       |           -0.0786209   |
+| Magical Realism                                                                                   |           -0.0780689   |
+| Sexual Content                                                                                    |           -0.0776049   |
+| Insecurity                                                                                        |           -0.0764957   |
+| Polyamory Negotiations                                                                            |           -0.0762725   |
+| POV Lucius Spriggs                                                                                |           -0.0762445   |
+| Flirting                                                                                          |           -0.0748036   |
+| True Love                                                                                         |           -0.074553    |
+| Blood                                                                                             |           -0.0742778   |
+| Pre-Relationship                                                                                  |           -0.0737196   |
+| Genderbending                                                                                     |           -0.0729925   |
+| Fix-It of Sorts                                                                                   |           -0.0728753   |
+| Alternate Universe - Different First Meeting                                                      |           -0.0721663   |
+| Awkward Flirting                                                                                  |           -0.0718905   |
+| Tentacles                                                                                         |           -0.0718376   |
+| Horror                                                                                            |           -0.0708907   |
+| Competent Stede Bonnet                                                                            |           -0.0706644   |
+| Whipping                                                                                          |           -0.070595    |
+| Pining while fucking                                                                              |           -0.0702567   |
+| Silly                                                                                             |           -0.0694398   |
+| Implied Sexual Content                                                                            |           -0.0693301   |
+| 69 (Sex Position)                                                                                 |           -0.0690829   |
+| Marijuana                                                                                         |           -0.0684499   |
+| Exhibitionism                                                                                     |           -0.0678671   |
+| Age Difference                                                                                    |           -0.0674062   |
+| Past Abuse                                                                                        |           -0.0662045   |
+| Halloween                                                                                         |           -0.0661653   |
+| Miscommunication                                                                                  |           -0.0660692   |
+| Talking It Through As a Crew (Our Flag Means Death)                                               |           -0.0657792   |
+| Humor                                                                                             |           -0.0651499   |
+| Under-negotiated Kink                                                                             |           -0.0649037   |
+| Fluff and Humor                                                                                   |           -0.0646895   |
+| Masochism                                                                                         |           -0.064552    |
+| Facials                                                                                           |           -0.0639999   |
+| Banter                                                                                            |           -0.0639894   |
+| Semi-Public Sex                                                                                   |           -0.0630429   |
+| Kid Fic                                                                                           |           -0.0620362   |
+| Fluff                                                                                             |           -0.0619092   |
+| Dialogue Heavy                                                                                    |           -0.060223    |
+| smau                                                                                              |           -0.0600148   |
+| Canon Compliant                                                                                   |           -0.0595146   |
+| Blow Jobs                                                                                         |           -0.0592685   |
+| Frottage                                                                                          |           -0.0592113   |
+| Reunion Sex                                                                                       |           -0.0590133   |
+| Implied/Referenced Alcohol Abuse/Alcoholism                                                       |           -0.0585882   |
+| Stargazing                                                                                        |           -0.0581317   |
+| Not Actually Unrequited Love                                                                      |           -0.0578668   |
+| Nonbinary Character                                                                               |           -0.0577757   |
+| Lucius Spriggs Lives                                                                              |           -0.0570908   |
+| Post-Episode: s01e10 Wherever You Go There You Are                                                |           -0.0568618   |
+| Resolved Sexual Tension                                                                           |           -0.0567487   |
+| Our Flag Means Death JanuAUry                                                                     |           -0.0566972   |
+| Getting Back Together                                                                             |           -0.0566017   |
+| Self-Harm                                                                                         |           -0.0564217   |
+| Fanvids                                                                                           |           -0.056324    |
+| Body Horror                                                                                       |           -0.0560999   |
+| Crossdressing                                                                                     |           -0.0556916   |
+| Sharing a Bed                                                                                     |           -0.0547928   |
+| Touch-Starved                                                                                     |           -0.0547029   |
+| Wall Sex                                                                                          |           -0.0542765   |
+| One Shot                                                                                          |           -0.0541331   |
+| soft                                                                                              |           -0.0541124   |
+| Digital Art                                                                                       |           -0.0540603   |
+| I Wrote This Instead of Sleeping                                                                  |           -0.0538311   |
+| Making Up                                                                                         |           -0.0536636   |
+| Age Regression Little Israel Hands                                                                |           -0.0531132   |
+| Face-Sitting                                                                                      |           -0.0519058   |
+| Fix-It                                                                                            |           -0.0518101   |
+| Unhealthy Coping Mechanisms                                                                       |           -0.0512613   |
+| Our Flag Means Death (TV) Season/Series 02 Spoilers                                               |           -0.0506004   |
+| Slice of Life                                                                                     |           -0.0504496   |
+| POV Blackbeard | Edward Teach                                                                     |           -0.0483073   |
+| Healing                                                                                           |           -0.0481097   |
+| Hair Washing                                                                                      |           -0.0480544   |
+| Complicated Relationships                                                                         |           -0.0479389   |
+| Trans Character                                                                                   |           -0.0457363   |
+| Love Letters                                                                                      |           -0.0455828   |
+| Israel Hands Gets a Hug                                                                           |           -0.0452665   |
+| Accidental Voyeurism                                                                              |           -0.0450042   |
+| Cis Israel Hands                                                                                  |           -0.0445463   |
+| Post-Traumatic Stress Disorder - PTSD                                                             |           -0.0444782   |
+| First Meetings                                                                                    |           -0.0441237   |
+| Trauma                                                                                            |           -0.0438358   |
+| Alternate Universe - Gender Changes                                                               |           -0.0436292   |
+| Ed POV                                                                                            |           -0.0436027   |
+| Episode: s01e05 The Best Revenge Is Dressing Well                                                 |           -0.0432543   |
+| Dom/sub Undertones                                                                                |           -0.0430423   |
+| Getting Together                                                                                  |           -0.0429428   |
+| Canon Non-Binary Character                                                                        |           -0.0424878   |
+| Top Stede Bonnet                                                                                  |           -0.0423362   |
+| Pining                                                                                            |           -0.0418963   |
+| Hand Jobs                                                                                         |           -0.041706    |
+| Explicit Sexual Content                                                                           |           -0.0414413   |
+| Barebacking                                                                                       |           -0.040685    |
+| Oblivious Stede Bonnet                                                                            |           -0.040683    |
+| Sensory Deprivation                                                                               |           -0.0402283   |
+| Protective Stede Bonnet                                                                           |           -0.0399276   |
+| Sub Stede Bonnet                                                                                  |           -0.0396464   |
+| Pining Blackbeard | Edward Teach                                                                  |           -0.0394599   |
+| Grinding                                                                                          |           -0.0392436   |
+| Heavy Angst                                                                                       |           -0.0391989   |
+| Jealousy                                                                                          |           -0.0388945   |
+| Backstory                                                                                         |           -0.0387232   |
+| Short & Sweet                                                                                     |           -0.0378023   |
+| Monsterfucking                                                                                    |           -0.0373267   |
+| Hair Braiding                                                                                     |           -0.0370604   |
+| Finger Sucking                                                                                    |           -0.036544    |
+| Post-Coital Cuddling                                                                              |           -0.0360189   |
+| Blindfolds                                                                                        |           -0.0354107   |
+| Post-Season/Series 01                                                                             |           -0.0352699   |
+| Enemies to Friends to Lovers                                                                      |           -0.034952    |
+| Dissociation                                                                                      |           -0.0342403   |
+| Creampie                                                                                          |           -0.0341911   |
+| Jealous Blackbeard | Edward Teach                                                                 |           -0.0332681   |
+| Vignette                                                                                          |           -0.0331254   |
+| Overstimulation                                                                                   |           -0.032962    |
+| Making Out                                                                                        |           -0.0323363   |
+| Blackbeard | Edward Teach Deserves Nice Things                                                    |           -0.0323053   |
+| Non-Sexual Intimacy                                                                               |           -0.0321197   |
+| Character Death                                                                                   |           -0.0317348   |
+| Service Top Stede Bonnet                                                                          |           -0.0315409   |
+| Blood and Violence                                                                                |           -0.0310016   |
+| Modern AU                                                                                         |           -0.0307293   |
+| Leather Kink                                                                                      |           -0.0306496   |
+| Pre-Canon                                                                                         |           -0.0303171   |
+| Homophobia                                                                                        |           -0.0302251   |
+| Drinking                                                                                          |           -0.0301624   |
+| Implied/Referenced Domestic Violence                                                              |           -0.0300119   |
+| Mirror Sex                                                                                        |           -0.0298557   |
+| Unhealthy Relationships                                                                           |           -0.029636    |
+| Switch Blackbeard | Edward Teach                                                                  |           -0.0294838   |
+| 5+1 Things                                                                                        |           -0.0289729   |
+| Fluff and Smut                                                                                    |           -0.0278649   |
+| Stede Bonnet Whump                                                                                |           -0.0277639   |
+| Happy Ending                                                                                      |           -0.0277134   |
+| Post-Canon                                                                                        |           -0.0276757   |
+| Intercrural Sex                                                                                   |           -0.0267876   |
+| Apologies                                                                                         |           -0.0267707   |
+| Alternate Universe - College/University                                                           |           -0.0267381   |
+| Pegging                                                                                           |           -0.0264983   |
+| Mental Health Issues                                                                              |           -0.0263537   |
+| post-reunion                                                                                      |           -0.0260168   |
+| Coming In Pants                                                                                   |           -0.0259939   |
+| Begging                                                                                           |           -0.0258115   |
+| Alternate Universe - Canon Divergence                                                             |           -0.0253385   |
+| No Angst                                                                                          |           -0.0250843   |
+| BDSM                                                                                              |           -0.0249141   |
+| Fingering                                                                                         |           -0.0242154   |
+| stizzy                                                                                            |           -0.0237076   |
+| Suicidal Thoughts                                                                                 |           -0.0234904   |
+| Established Relationship                                                                          |           -0.023083    |
+| Marking                                                                                           |           -0.0230793   |
+| Mild Gore                                                                                         |           -0.0229264   |
+| Rough Sex                                                                                         |           -0.0225992   |
+| Soft Dom Stede Bonnet                                                                             |           -0.0224832   |
+| Canon Disabled Character                                                                          |           -0.0223758   |
+| Implied/Referenced Abuse                                                                          |           -0.0223739   |
+| Blackbeard | Edward Teach Has a Praise Kink                                                       |           -0.022286    |
+| Crack Treated Seriously                                                                           |           -0.0222307   |
+| First Kiss                                                                                        |           -0.0221291   |
+| Misunderstandings                                                                                 |           -0.0220647   |
+| Knifeplay                                                                                         |           -0.0219476   |
+| Plot What Plot/Porn Without Plot                                                                  |           -0.0218743   |
+| Ghosts                                                                                            |           -0.0210753   |
+| Author is an Israel Hands Apologist                                                               |           -0.0205546   |
+| Explicit Language                                                                                 |           -0.0202433   |
+| Murder                                                                                            |           -0.0198415   |
+| Angst and Hurt/Comfort                                                                            |           -0.019506    |
+| Infidelity                                                                                        |           -0.0190545   |
+| Sleepy Cuddles                                                                                    |           -0.0186333   |
+| Art                                                                                               |           -0.0184926   |
+| Blackbeard | Edward Teach Has ADHD                                                                |           -0.018367    |
+| Reconciliation                                                                                    |           -0.0178534   |
+| Cuddling & Snuggling                                                                              |           -0.0174705   |
+| Painplay                                                                                          |           -0.0173325   |
+| Alpha Stede Bonnet                                                                                |           -0.0172277   |
+| Protectiveness                                                                                    |           -0.0171339   |
+| Trans Stede Bonnet                                                                                |           -0.0168364   |
+| Alpha/Beta/Omega Dynamics                                                                         |           -0.0165867   |
+| Bittersweet Ending                                                                                |           -0.0165504   |
+| Our Flag Means Death (TV) Season/Series 02                                                        |           -0.0160792   |
+| Crew as Family                                                                                    |           -0.0159008   |
+| Touch-Starved Blackbeard | Edward Teach                                                           |           -0.0155883   |
+| Our Flag Means Death Fluffvember                                                                  |           -0.0155475   |
+| Vampires                                                                                          |           -0.0155288   |
+| Rimming                                                                                           |           -0.0148685   |
+| Tattoos                                                                                           |           -0.0145504   |
+| Oral Sex                                                                                          |           -0.0143998   |
+| Omega Verse                                                                                       |           -0.0137261   |
+| Confessions                                                                                       |           -0.0136986   |
+| Childhood Trauma                                                                                  |           -0.0133148   |
+| Fluffvember                                                                                       |           -0.0130469   |
+| Canon-Typical Behavior                                                                            |           -0.0130149   |
+| Dildos                                                                                            |           -0.0127943   |
+| Soft Blackbeard | Edward Teach                                                                    |           -0.0123555   |
+| POV Stede Bonnet                                                                                  |           -0.0120414   |
+| Alpha/Omega                                                                                       |           -0.0119094   |
+| Author is Open to Hearing about Dead Batteries                                                    |           -0.0118955   |
+| Soft Israel Hands                                                                                 |           -0.0116501   |
+| Bad BDSM Etiquette                                                                                |           -0.0105259   |
+| Mentioned Crew of the Revenge (Our Flag Means Death)                                              |           -0.0103917   |
+| PWP                                                                                               |           -0.0102413   |
+| Kinda                                                                                             |           -0.0101103   |
+| POV Israel Hands                                                                                  |           -0.00970743  |
+| Crew of the Revenge as Family (Our Flag Means Death)                                              |           -0.00947804  |
+| Israel Hands-centric                                                                              |           -0.00934214  |
+| Alternate Universe - Fantasy                                                                      |           -0.00928836  |
+| Cheating                                                                                          |           -0.00880405  |
+| Minor Injuries                                                                                    |           -0.00879801  |
+| Dry Humping                                                                                       |           -0.00871869  |
+| Voyeurism                                                                                         |           -0.00857134  |
+| Mild Blood                                                                                        |           -0.00855019  |
+| Alternate Universe - Vampire                                                                      |           -0.0080163   |
+| First Time                                                                                        |           -0.00759172  |
+| Breaking Up & Making Up                                                                           |           -0.00738824  |
+| Eventual Smut                                                                                     |           -0.00706279  |
+| Consensual Somnophilia                                                                            |           -0.00699628  |
+| PIV Sex                                                                                           |           -0.00686512  |
+| Consensual Non-Consent                                                                            |           -0.00667298  |
+| Riding                                                                                            |           -0.00620603  |
+| Stede Bonnet Has a Big Dick                                                                       |           -0.00602358  |
+| Christmas                                                                                         |           -0.00582925  |
+| Possessive Blackbeard | Edward Teach                                                              |           -0.00412845  |
+| Gender Dysphoria                                                                                  |           -0.00266     |
+| Canon-Typical Violence                                                                            |           -0.00261948  |
+| Hopeful Ending                                                                                    |           -0.00256841  |
+| Dubious Consent                                                                                   |           -0.00246286  |
+| Lucius Spriggs Deserves a Raise                                                                   |           -0.00240183  |
+| "Calico" Jack Rackham is a Simp for Israel Hands                                                  |           -0.00211887  |
+| Israel Hands is Bad at Feelings                                                                   |           -0.00200152  |
+| Stede Bonnet Loves Blackbeard | Edward Teach                                                      |           -0.00181214  |
+| Friends to Lovers                                                                                 |           -0.00161939  |
+| Mild Hurt/Comfort                                                                                 |           -0.00106278  |
+| Love Confessions                                                                                  |           -0.000684928 |
+| Possessive Behavior                                                                               |           -5.74211e-05 |
+| Crying                                                                                            |            0.000216371 |
+| Blowjobs                                                                                          |            0.000356044 |
+| Mild Sexual Content                                                                               |            0.000783093 |
+| Podfic Welcome                                                                                    |            0.00124333  |
+| Masturbation                                                                                      |            0.00197682  |
+| Israel Hands Needs Therapy                                                                        |            0.00234456  |
+| Our Flag Means Death Spoilers                                                                     |            0.00244435  |
+| Angst and Fluff and Smut                                                                          |            0.00343074  |
+| Emotional Hurt/Comfort                                                                            |            0.00360463  |
+| Lucius Spriggs Lives in the Walls of the Revenge                                                  |            0.00366985  |
+| Kidnapping                                                                                        |            0.00432124  |
+| Near Death Experiences                                                                            |            0.0057496   |
+| Stede Bonnet Being an Idiot                                                                       |            0.00577589  |
+| kind of                                                                                           |            0.00581323  |
+| Sex Pollen                                                                                        |            0.00597799  |
+| Gift Giving                                                                                       |            0.00621247  |
+| Implied/Referenced Child Abuse                                                                    |            0.00643492  |
+| Mating Cycles/In Heat                                                                             |            0.00644954  |
+| Sort Of                                                                                           |            0.00727862  |
+| Praise Kink                                                                                       |            0.00729413  |
+| Come Eating                                                                                       |            0.00747298  |
+| POV Roach (Our Flag Means Death)                                                                  |            0.00778907  |
+| Established Blackbeard | Edward Teach/Stede Bonnet                                                |            0.00844199  |
+| Anxiety                                                                                           |            0.00845441  |
+| Pre-Slash                                                                                         |            0.00926455  |
+| Domestic Fluff                                                                                    |            0.00953135  |
+| Bickering                                                                                         |            0.00959994  |
+| Developing Relationship                                                                           |            0.0109167   |
+| Flirty Lucius Spriggs                                                                             |            0.0111409   |
+| Fantasizing                                                                                       |            0.0123618   |
+| Light Angst                                                                                       |            0.0124049   |
+| Pet Names                                                                                         |            0.0125224   |
+| Anal Sex                                                                                          |            0.0130448   |
+| Unresolved Sexual Tension                                                                         |            0.0134342   |
+| Angst with a Happy Ending                                                                         |            0.0136344   |
+| Hugs                                                                                              |            0.013721    |
+| Not Beta Read                                                                                     |            0.0138566   |
+| Boys Kissing                                                                                      |            0.0138708   |
+| Verbal Humiliation                                                                                |            0.0143655   |
+| Face Slapping                                                                                     |            0.0144043   |
+| Trans Israel Hands                                                                                |            0.0145742   |
+| Subspace                                                                                          |            0.0146568   |
+| Past Blackbeard | Edward Teach/"Calico" Jack Rackham                                              |            0.0148126   |
+| Ficlet                                                                                            |            0.0154055   |
+| Sexual Humor                                                                                      |            0.0154201   |
+| Gay Pirates                                                                                       |            0.0154971   |
+| Character Study                                                                                   |            0.0155681   |
+| Chronic Pain                                                                                      |            0.0156503   |
+| Enthusiastic Consent                                                                              |            0.0159364   |
+| Hand Feeding                                                                                      |            0.0160287   |
+| Ambiguous/Open Ending                                                                             |            0.0169494   |
+| Implied/Referenced Homophobia                                                                     |            0.0175356   |
+| Blackbeard | Edward Teach is Bad at Feelings                                                      |            0.0178525   |
+| Eventual Happy Ending                                                                             |            0.0178756   |
+| Restraints                                                                                        |            0.01796     |
+| Coming Untouched                                                                                  |            0.0180709   |
+| Drabble                                                                                           |            0.0182689   |
+| Episode: s01e09 Act of Grace                                                                      |            0.0183028   |
+| First Dates                                                                                       |            0.0184366   |
+| Dirty Talk                                                                                        |            0.0188248   |
+| Men Crying                                                                                        |            0.0189358   |
+| Bathing/Washing                                                                                   |            0.0206912   |
+| Minor Character Death                                                                             |            0.0207505   |
+| Sub Blackbeard | Edward Teach                                                                     |            0.0211496   |
+| Protective Israel Hands                                                                           |            0.021438    |
+| Protective Blackbeard | Edward Teach                                                              |            0.0214565   |
+| Hurt/Comfort                                                                                      |            0.0215007   |
+| Found Family                                                                                      |            0.0215117   |
+| Impact Play                                                                                       |            0.0216977   |
+| Dom/sub                                                                                           |            0.021909    |
+| Kissing                                                                                           |            0.0220771   |
+| Cunnilingus                                                                                       |            0.0223925   |
+| Trans Blackbeard | Edward Teach                                                                   |            0.0227926   |
+| Massage                                                                                           |            0.0228335   |
+| Hijinks & Shenanigans                                                                             |            0.0230263   |
+| Sexual Fantasy                                                                                    |            0.0230768   |
+| Smoking                                                                                           |            0.0231623   |
+| Strap-Ons                                                                                         |            0.0234586   |
+| Panic Attacks                                                                                     |            0.0235066   |
+| Mildly Dubious Consent                                                                            |            0.023714    |
+| Soft Dom Blackbeard | Edward Teach                                                                |            0.0238436   |
+| Blackbeard | Edward Teach and Stede Bonnet in Love                                                |            0.0242144   |
+| Love at First Sight                                                                               |            0.0242744   |
+| Domestic                                                                                          |            0.0245237   |
+| Sick Character                                                                                    |            0.0251358   |
+| Alcohol                                                                                           |            0.0267772   |
+| Blackbeard's Bar & Grill & Other Delicacies & Delights & Fishing Equipment (Our Flag Means Death) |            0.0269826   |
+| Bondage                                                                                           |            0.0271587   |
+| Implied/Referenced Torture                                                                        |            0.0271633   |
+| Tenderness                                                                                        |            0.0272213   |
+| Bottom Israel Hands                                                                               |            0.0272872   |
+| blackbonnet - Freeform                                                                            |            0.0285913   |
+| Safewords                                                                                         |            0.0286024   |
+| Hair-pulling                                                                                      |            0.0290537   |
+| Israel Hands Has Issues                                                                           |            0.029135    |
+| Depression                                                                                        |            0.0293918   |
+| First Time Bottoming                                                                              |            0.0300087   |
+| Roleplay                                                                                          |            0.0305701   |
+| Boys In Love                                                                                      |            0.0306374   |
+| Biting                                                                                            |            0.0307383   |
+| Emotional Hurt                                                                                    |            0.0311748   |
+| Sexual Tension                                                                                    |            0.0312466   |
+| Non-Traditional Alpha/Beta/Omega Dynamics                                                         |            0.0315961   |
+| Edgeplay                                                                                          |            0.031623    |
+| Spit As Lube                                                                                      |            0.0316561   |
+| Dom Blackbeard | Edward Teach                                                                     |            0.0316962   |
+| Mutual Masturbation                                                                               |            0.0319403   |
+| Cis Stede Bonnet                                                                                  |            0.0319967   |
+| Anxiety Attacks                                                                                   |            0.0323819   |
+| Attempt at Humor                                                                                  |            0.0325154   |
+| Porn with Feelings                                                                                |            0.0326383   |
+| Sweet                                                                                             |            0.0331587   |
+| Canonical Character Death                                                                         |            0.0332844   |
+| Rutting                                                                                           |            0.0338509   |
+| Friends With Benefits                                                                             |            0.0339897   |
+| Sexual Roleplay                                                                                   |            0.0340241   |
+| Dacryphilia                                                                                       |            0.0342146   |
+| Introspection                                                                                     |            0.0359738   |
+| Lingerie                                                                                          |            0.035987    |
+| Recovery                                                                                          |            0.0363946   |
+| Crack                                                                                             |            0.0365803   |
+| Unreliable Narrator                                                                               |            0.036677    |
+| Double Penetration                                                                                |            0.0367957   |
+| Vomiting                                                                                          |            0.0377264   |
+| Power Dynamics                                                                                    |            0.0378848   |
+| Blackbeard | Edward Teach Loves Stede Bonnet                                                      |            0.0379325   |
+| Romance                                                                                           |            0.0387095   |
+| Comedy                                                                                            |            0.0387648   |
+| Whump                                                                                             |            0.0390117   |
+| Drunk Sex                                                                                         |            0.0390652   |
+| Episode: s01e10 Wherever You Go There You Are                                                     |            0.0392521   |
+| Swordfighting                                                                                     |            0.0396773   |
+| Idiots in Love                                                                                    |            0.0397785   |
+| Sexting                                                                                           |            0.0401047   |
+| Family                                                                                            |            0.0403374   |
+| Episode: s02e06 Calypso's Birthday                                                                |            0.0403407   |
+| Israel Hands Needs a Hug                                                                          |            0.0403773   |
+| Stede Bonnet Apologizes                                                                           |            0.0406638   |
+| Vaginal Sex                                                                                       |            0.0408905   |
+| Anal Fingering                                                                                    |            0.0411304   |
+| Sub Israel Hands                                                                                  |            0.0413637   |
+| Choking                                                                                           |            0.0417656   |
+| Cuddling                                                                                          |            0.0418405   |
+| I'm Bad At Tagging                                                                                |            0.042032    |
+| Blackbeard | Edward Teach Thinks Stede Bonnet is Dead                                             |            0.0424521   |
+| "Calico" Jack Rackham Being an Asshole                                                            |            0.0426115   |
+| Kink Negotiation                                                                                  |            0.0432782   |
+| Stede Bonnet is Trying His Best                                                                   |            0.0433266   |
+| Soulmates                                                                                         |            0.0444003   |
+| Safeword Use                                                                                      |            0.044607    |
+| Degradation                                                                                       |            0.0447668   |
+| Recreational Drug Use                                                                             |            0.0447917   |
+| Spitroasting                                                                                      |            0.0452166   |
+| POV Alternating                                                                                   |            0.0461119   |
+| Injury Recovery                                                                                   |            0.0461469   |
+| Israel Hands Loves Blackbeard | Edward Teach                                                      |            0.0466691   |
+| Alternate Universe                                                                                |            0.0467304   |
+| Drag Queens                                                                                       |            0.0470434   |
+| No Beta We die like Badmintons                                                                    |            0.047368    |
+| Soft Stede Bonnet                                                                                 |            0.047772    |
+| Supernatural Elements                                                                             |            0.0480246   |
+| Tender Sex                                                                                        |            0.0491466   |
+| Fluff and Hurt/Comfort                                                                            |            0.0503514   |
+| Neck Kissing                                                                                      |            0.0505516   |
+| Sex Toys                                                                                          |            0.0506417   |
+| Self-Hatred                                                                                       |            0.0508042   |
+| Enemies to Lovers                                                                                 |            0.0514926   |
+| Mutual Pining                                                                                     |            0.0515074   |
+| Threats of Violence                                                                               |            0.0522592   |
+| Lucius Spriggs Needs a Hug                                                                        |            0.0522833   |
+| Knotting                                                                                          |            0.0523973   |
+| Swearing                                                                                          |            0.0527938   |
+| Hate Sex                                                                                          |            0.0528898   |
+| References to Depression                                                                          |            0.0541199   |
+| Post-Break Up                                                                                     |            0.0542384   |
+| Gentle Sex                                                                                        |            0.0544653   |
+| Sex Work                                                                                          |            0.0545909   |
+| Light Dom/sub                                                                                     |            0.0546684   |
+| Light Bondage                                                                                     |            0.0548108   |
+| Past Blackbeard | Edward Teach/Israel Hands                                                       |            0.0558066   |
+| Post-Finale                                                                                       |            0.0560848   |
+| Dancing                                                                                           |            0.0562127   |
+| Blackbeard | Edward Teach is Not Okay                                                             |            0.0562255   |
+| Body Worship                                                                                      |            0.0566928   |
+| Stockings                                                                                         |            0.0569499   |
+| Comfort No Hurt                                                                                   |            0.0570512   |
+| Alpha Blackbeard | Edward Teach                                                                   |            0.0584617   |
+| Light BDSM                                                                                        |            0.0587006   |
+| Beach Sex                                                                                         |            0.0587727   |
+| Dom Stede Bonnet                                                                                  |            0.0595504   |
+| Reunions                                                                                          |            0.0595997   |
+| Unrequited Love                                                                                   |            0.060441    |
+| Edging                                                                                            |            0.0605404   |
+| Polyamory                                                                                         |            0.0605422   |
+| Implied/Referenced Self-Harm                                                                      |            0.0610507   |
+| Sharing Clothes                                                                                   |            0.0612899   |
+| Lucius Spriggs is a Little Shit                                                                   |            0.0618521   |
+| Hurt Israel Hands                                                                                 |            0.0625789   |
+| Fluff and Angst                                                                                   |            0.0642341   |
+| Romantic Fluff                                                                                    |            0.064392    |
+| Blackbeard | Edward Teach Has Abandonment Issues                                                  |            0.0650442   |
+| Angst and Feels                                                                                   |            0.0651686   |
+| no beta we die like karl                                                                          |            0.0655349   |
+| Reunion                                                                                           |            0.0656962   |
+| Israel Hands Redemption                                                                           |            0.0660079   |
+| Guilt                                                                                             |            0.0662215   |
+| Falling In Love                                                                                   |            0.0664718   |
+| Post-Canon Fix-It                                                                                 |            0.0667563   |
+| Come Swallowing                                                                                   |            0.0671678   |
+| Threesome - M/M/M                                                                                 |            0.0684037   |
+| Autistic Stede Bonnet                                                                             |            0.0684061   |
+| Blackbeard | Edward Teach Needs a Hug                                                             |            0.0688361   |
+| Butt Plugs                                                                                        |            0.0690796   |
+| Blackbeard | Edward Teach's Kraken Era                                                            |            0.069463    |
+| Communication                                                                                     |            0.0697202   |
+| First Time Blow Jobs                                                                              |            0.0701544   |
+| Vaginal Fingering                                                                                 |            0.0703052   |
+| Shibari                                                                                           |            0.0706519   |
+| Romantic Comedy                                                                                   |            0.0707534   |
+| Stede Bonnet Needs a Hug                                                                          |            0.071517    |
+| Pregnancy                                                                                         |            0.0722849   |
+| Prompt Fic                                                                                        |            0.0742496   |
+| Nightmares                                                                                        |            0.0745102   |
+| Collars                                                                                           |            0.0751311   |
+| Deepthroating                                                                                     |            0.0755924   |
+| Orgasm Delay/Denial                                                                               |            0.0761674   |
+| Implied/Referenced Suicide                                                                        |            0.0764909   |
+| Māori Blackbeard | Edward Teach                                                                   |            0.0766816   |
+| Angst                                                                                             |            0.0767538   |
+| Cooking                                                                                           |            0.0771103   |
+| Slow Burn                                                                                         |            0.0772145   |
+| Aftercare                                                                                         |            0.0772721   |
+| Domestic Bliss                                                                                    |            0.0779465   |
+| Strangers to Lovers                                                                               |            0.078033    |
+| Forgiveness                                                                                       |            0.0783011   |
+| steddyhands                                                                                       |            0.0784013   |
+| Religious Imagery & Symbolism                                                                     |            0.0784041   |
+| Revenge                                                                                           |            0.0804328   |
+| Somnophilia                                                                                       |            0.0811622   |
+| Shower Sex                                                                                        |            0.0816269   |
+| Scars                                                                                             |            0.0817522   |
+| Crying During Sex                                                                                 |            0.0817886   |
+| Sad Ending                                                                                        |            0.0823829   |
+| Face-Fucking                                                                                      |            0.082631    |
+| Size Kink                                                                                         |            0.0830305   |
+| Gay                                                                                               |            0.0840108   |
+| Desk Sex                                                                                          |            0.0853015   |
+| Squirting                                                                                         |            0.0867259   |
+| Gags                                                                                              |            0.0869117   |
+| Teasing                                                                                           |            0.0870984   |
+| Season/Series 02                                                                                  |            0.0901179   |
+| Shameless Smut                                                                                    |            0.0906811   |
+| Bottom Blackbeard | Edward Teach                                                                  |            0.0912533   |
+| Explicit Consent                                                                                  |            0.0914492   |
+| Meta                                                                                              |            0.0918256   |
+| Past Child Abuse                                                                                  |            0.09227     |
+| Nipple Piercings                                                                                  |            0.0931998   |
+| No beta we die like the badmintons                                                                |            0.0962902   |
+| Porn With Plot                                                                                    |            0.0969161   |
+| Short One Shot                                                                                    |            0.0993313   |
+| Spoilers                                                                                          |            0.09991     |
+| Feminization                                                                                      |            0.100993    |
+| Childhood Friends                                                                                 |            0.10228     |
+| Jealous Israel Hands                                                                              |            0.103222    |
+| Dom Israel Hands                                                                                  |            0.103805    |
+| Sickfic                                                                                           |            0.103956    |
+| t4t                                                                                               |            0.104176    |
+| Actual Kraken Blackbeard | Edward Teach                                                           |            0.107778    |
+| Curses                                                                                            |            0.10811     |
+| Trans Male Character                                                                              |            0.108369    |
+| Orgasm Control                                                                                    |            0.108923    |
+| Drowning                                                                                          |            0.109504    |
+| Stabbing                                                                                          |            0.110024    |
+| Canon-Typical Historical Inaccuracy (Our Flag Means Death)                                        |            0.110396    |
+| Background Relationships                                                                          |            0.11062     |
+| Sex                                                                                               |            0.112571    |
+| Humiliation                                                                                       |            0.112608    |
+| Love                                                                                              |            0.112683    |
+| Period-Typical Homophobia                                                                         |            0.113987    |
+| Alternate Universe - Magic                                                                        |            0.114694    |
+| Eventual Romance                                                                                  |            0.114872    |
+| Kinktober 2022                                                                                    |            0.114967    |
+| First Love                                                                                        |            0.11511     |
+| Drug Use                                                                                          |            0.115131    |
+| Declarations Of Love                                                                              |            0.115641    |
+| Feelings Realization                                                                              |            0.116759    |
+| gentlebeard                                                                                       |            0.116946    |
+| Other Additional Tags to Be Added                                                                 |            0.117174    |
+| Omega Israel Hands                                                                                |            0.117823    |
+| Spanking                                                                                          |            0.118245    |
+| No Beta                                                                                           |            0.118807    |
+| Dom Lucius Spriggs                                                                                |            0.119298    |
+| No Smut                                                                                           |            0.119334    |
+| Penis In Vagina Sex                                                                               |            0.120393    |
+| Flashbacks                                                                                        |            0.124737    |
+| Breeding Kink                                                                                     |            0.125492    |
+| Bullying                                                                                          |            0.127638    |
+| Comfort                                                                                           |            0.127713    |
+| Masochist Israel Hands                                                                            |            0.128542    |
+| Daddy Kink                                                                                        |            0.128707    |
+| Hurt Blackbeard | Edward Teach                                                                    |            0.128988    |
+| Alcohol Abuse/Alcoholism                                                                          |            0.129024    |
+| Vibrators                                                                                         |            0.131633    |
+| Wax Play                                                                                          |            0.134367    |
+| Emotional Sex                                                                                     |            0.134577    |
+| Demisexual Stede Bonnet                                                                           |            0.134992    |
+| Cock Warming                                                                                      |            0.135194    |
+| Multiple Orgasms                                                                                  |            0.137581    |
+| Piercings                                                                                         |            0.137853    |
+| Hurt No Comfort                                                                                   |            0.138498    |
+| Israel Hands Has Feelings                                                                         |            0.139821    |
+| Blackbeard | Edward Teach Loves Israel Hands                                                      |            0.140421    |
+| Pet Play                                                                                          |            0.140501    |
+| Hurt Stede Bonnet                                                                                 |            0.140632    |
+| One-Sided Blackbeard | Edward Teach/Israel Hands                                                  |            0.143851    |
+| Orgasm Denial                                                                                     |            0.144855    |
+| Hurt                                                                                              |            0.145001    |
+| Post Season 1                                                                                     |            0.14537     |
+| POV Multiple                                                                                      |            0.145537    |
+| Rough Oral Sex                                                                                    |            0.150576    |
+| Bathroom Sex                                                                                      |            0.153646    |
+| Minor Oluwande Boodhari/Jim Jimenez                                                               |            0.155891    |
+| Developing Friendships                                                                            |            0.156358    |
+| Rope Bondage                                                                                      |            0.157884    |
+| Breeding                                                                                          |            0.159006    |
+| Podfic Length: 0-10 Minutes                                                                       |            0.159527    |
+| Rape/Non-con Elements                                                                             |            0.15956     |
+| Slow Dancing                                                                                      |            0.159862    |
+| Pain                                                                                              |            0.163799    |
+| Podfic Length: 30-45 Minutes                                                                      |            0.164669    |
+| OFMD Kinktober                                                                                    |            0.168909    |
+| Original Character(s)                                                                             |            0.169496    |
+| Injured Stede Bonnet                                                                              |            0.17017     |
+| Possessive Sex                                                                                    |            0.172053    |
+| Magic                                                                                             |            0.173319    |
+| Public Sex                                                                                        |            0.173377    |
+| Break Up                                                                                          |            0.173726    |
+| Major Character Injury                                                                            |            0.173764    |
+| Out of Character                                                                                  |            0.17561     |
+| Heartbreak                                                                                        |            0.17617     |
+| Marriage                                                                                          |            0.177534    |
+| Everyone Is Gay                                                                                   |            0.178253    |
+| No beta we die like Lucius                                                                        |            0.182143    |
+| Action/Adventure                                                                                  |            0.182443    |
+| Smut                                                                                              |            0.183297    |
+| Israel Hands Whump                                                                                |            0.188726    |
+| Bottom Stede Bonnet                                                                               |            0.188737    |
+| Tentacle Sex                                                                                      |            0.196803    |
+| Holding Hands                                                                                     |            0.197765    |
+| Violence                                                                                          |            0.19947     |
+| Poetry                                                                                            |            0.201163    |
+| Family Fluff                                                                                      |            0.205469    |
+| Puppy Play                                                                                        |            0.208445    |
+| ofmd                                                                                              |            0.210701    |
+| OFMD Kinktober 2022                                                                               |            0.211258    |
+| Pirates                                                                                           |            0.212611    |
+| Dead Dove: Do Not Eat                                                                             |            0.217542    |
+| Cute                                                                                              |            0.219274    |
+| Blood Kink                                                                                        |            0.221364    |
+| Objectification                                                                                   |            0.224476    |
+| Age Regression Caregiver Stede Bonnet                                                             |            0.225019    |
+| Bisexual Blackbeard | Edward Teach                                                                |            0.225821    |
+| Switch Stede Bonnet                                                                               |            0.229655    |
+| Gun Violence                                                                                      |            0.237894    |
+| Download Available                                                                                |            0.242796    |
+| Warning: Israel Hands                                                                             |            0.245373    |
+| Cock & Ball Torture                                                                               |            0.246746    |
+| Extremely Dubious Consent                                                                         |            0.252637    |
+| Fisting                                                                                           |            0.253703    |
+| Punishment                                                                                        |            0.258751    |
+| Kinktober 2023                                                                                    |            0.262618    |
+| our flag means death - Freeform                                                                   |            0.26827     |
+| How Do I Tag                                                                                      |            0.269658    |
+| Past Relationship(s)                                                                              |            0.278706    |
+| Young Blackbeard | Edward Teach                                                                   |            0.279809    |
+| Mentioned Blackbeard | Edward Teach                                                               |            0.285603    |
+| Sad                                                                                               |            0.295163    |
+| Married Couple                                                                                    |            0.311488    |
+| Age Regression/De-Aging                                                                           |            0.312811    |
+| Gay Sex                                                                                           |            0.314134    |
+| Crossover                                                                                         |            0.322011    |
+| Podfic & Podficced Works                                                                          |            0.325599    |
+| Fanart                                                                                            |            0.338962    |
+| ofmdkinktober                                                                                     |            0.343373    |
+| POV Second Person                                                                                 |            0.343663    |
+| Podfic Length: 10-20 Minutes                                                                      |            0.363125    |
+| Lesbian Sex                                                                                       |            0.36376     |
+| Watersports                                                                                       |            0.37254     |
+| Songfic                                                                                           |            0.382775    |
+| Piña Coladas                                                                                      |            0.39664     |
+| Our Flag Means Death Kinktober 2023                                                               |            0.424236    |
+| Podfic Length: 20-30 Minutes                                                                      |            0.429267    |
+| Weight Gain                                                                                       |            0.438354    |
+| Podfic                                                                                            |            0.455238    |
+| Hallucinations                                                                                    |            0.46326     |
+| Tickling                                                                                          |            0.526285    |
+| Female Stede Bonnet                                                                               |            0.562715    |
+| Mpreg                                                                                             |            0.573517    |
+| Omorashi                                                                                          |            0.654017    |
+| Belly Kink                                                                                        |            0.668568    |
+| NSFW Art                                                                                          |            0.83983     |

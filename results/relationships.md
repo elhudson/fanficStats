@@ -1,31 +1,31 @@
 | Feature                                                      |   Approval Coefficient |
 |:-------------------------------------------------------------|-----------------------:|
-| Israel Hands/Roach (Our Flag Means Death)                    |            -0.15923    |
-| Israel Hands & Jim Jimenez                                   |            -0.11299    |
-| Israel Hands/"Calico" Jack Rackham                           |            -0.0949814  |
-| Stede Bonnet & Israel Hands                                  |            -0.090559   |
-| Blackbeard | Edward Teach & Lucius Spriggs                   |            -0.090531   |
-| Stede Bonnet/Israel Hands                                    |            -0.0845667  |
-| Mary Allamby Bonnet/Doug                                     |            -0.0781297  |
-| Black Pete/Israel Hands/Lucius Spriggs                       |            -0.0775461  |
-| Mary Allamby Bonnet & Stede Bonnet                           |            -0.0743795  |
-| Blackbeard | Edward Teach/Israel Hands/"Calico" Jack Rackham |            -0.0431265  |
-| Blackbeard | Edward Teach/Israel Hands                       |            -0.0416339  |
-| Frenchie (Our Flag Means Death)/Israel Hands                 |             0.00766127 |
-| Israel Hands & Lucius Spriggs                                |             0.0248721  |
-| Israel Hands/Lucius Spriggs                                  |             0.0256891  |
-| Black Pete/Lucius Spriggs                                    |             0.0262111  |
-| Israel Hands/Original Male Character(s)                      |             0.0278041  |
-| Black Pete/Fang/Lucius Spriggs                               |             0.0282536  |
-| Blackbeard | Edward Teach/Stede Bonnet/Israel Hands          |             0.0288329  |
-| Blackbeard | Edward Teach & Stede Bonnet & Israel Hands      |             0.035745   |
-| Minor or Background Relationship(s)                          |             0.0431276  |
-| Blackbeard | Edward Teach & Israel Hands                     |             0.0468462  |
-| Wee John Feeney/Frenchie                                     |             0.0469477  |
-| Crew of the Revenge (Our Flag Means Death) & Israel Hands    |             0.05555    |
-| Oluwande Boodhari/Jim Jimenez                                |             0.0616866  |
-| Blackbeard | Edward Teach & Stede Bonnet                     |             0.0682534  |
-| Stede Bonnet & Lucius Spriggs                                |             0.0782062  |
-| Blackbeard | Edward Teach/"Calico" Jack Rackham              |             0.129811   |
-| Blackbeard | Edward Teach/Stede Bonnet                       |             0.149677   |
-| Israel Hands/Reader                                          |             0.488414   |
+| Israel Hands/Roach (Our Flag Means Death)                    |            -0.132057   |
+| Mary Allamby Bonnet & Stede Bonnet                           |            -0.10928    |
+| Israel Hands & Jim Jimenez                                   |            -0.1063     |
+| Israel Hands/"Calico" Jack Rackham                           |            -0.0995242  |
+| Blackbeard | Edward Teach & Lucius Spriggs                   |            -0.0977179  |
+| Stede Bonnet/Israel Hands                                    |            -0.0871799  |
+| Stede Bonnet & Israel Hands                                  |            -0.0792216  |
+| Black Pete/Israel Hands/Lucius Spriggs                       |            -0.0742503  |
+| Mary Allamby Bonnet/Doug                                     |            -0.0407883  |
+| Blackbeard | Edward Teach/Israel Hands                       |            -0.0370982  |
+| Black Pete/Fang/Lucius Spriggs                               |            -0.0283715  |
+| Minor or Background Relationship(s)                          |            -0.00861141 |
+| Frenchie (Our Flag Means Death)/Israel Hands                 |             0.00734815 |
+| Blackbeard | Edward Teach/Stede Bonnet/Israel Hands          |             0.00899847 |
+| Blackbeard | Edward Teach/Israel Hands/"Calico" Jack Rackham |             0.0104587  |
+| Wee John Feeney/Frenchie                                     |             0.0133766  |
+| Blackbeard | Edward Teach & Stede Bonnet                     |             0.0138753  |
+| Israel Hands/Lucius Spriggs                                  |             0.0154764  |
+| Blackbeard | Edward Teach & Stede Bonnet & Israel Hands      |             0.0202533  |
+| Israel Hands & Lucius Spriggs                                |             0.0375684  |
+| Black Pete/Lucius Spriggs                                    |             0.0387286  |
+| Oluwande Boodhari/Jim Jimenez                                |             0.0419021  |
+| Crew of the Revenge (Our Flag Means Death) & Israel Hands    |             0.0442965  |
+| Blackbeard | Edward Teach & Israel Hands                     |             0.0700089  |
+| Israel Hands/Original Male Character(s)                      |             0.0752651  |
+| Blackbeard | Edward Teach/"Calico" Jack Rackham              |             0.11382    |
+| Stede Bonnet & Lucius Spriggs                                |             0.12533    |
+| Blackbeard | Edward Teach/Stede Bonnet                       |             0.162433   |
+| Israel Hands/Reader                                          |             0.387807   |
