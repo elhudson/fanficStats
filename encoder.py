@@ -32,6 +32,5 @@ def make_multi_encoder(fics, feature):
         for attr in range(len(values)):
             if values[attr] in fics.iloc[fic][feature]:
                 encoder[fic][attr]=1.0
-                print(fic, attr)
     df=pd.DataFrame(data=encoder, columns=values)
     return df
